@@ -40,12 +40,12 @@ $EndComp
 $Comp
 L 74xGxx:74AHCT1G125 U?
 U 1 1 6138B78A
-P 1050 6300
-F 0 "U?" H 1025 6125 50  0000 C CNN
-F 1 "74AHCT1G125" H 1025 6034 50  0000 C CNN
-F 2 "" H 1050 6300 50  0001 C CNN
-F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 1050 6300 50  0001 C CNN
-	1    1050 6300
+P 7950 2800
+F 0 "U?" H 7925 2625 50  0000 C CNN
+F 1 "74AHCT1G125" H 7925 2534 50  0000 C CNN
+F 2 "" H 7950 2800 50  0001 C CNN
+F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 7950 2800 50  0001 C CNN
+	1    7950 2800
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -73,12 +73,12 @@ $EndComp
 $Comp
 L Device:R R?
 U 1 1 6139F900
-P 1650 6300
-F 0 "R?" V 1443 6300 50  0000 C CNN
-F 1 "440" V 1534 6300 50  0000 C CNN
-F 2 "" V 1580 6300 50  0001 C CNN
-F 3 "~" H 1650 6300 50  0001 C CNN
-	1    1650 6300
+P 8550 2800
+F 0 "R?" V 8343 2800 50  0000 C CNN
+F 1 "440" V 8434 2800 50  0000 C CNN
+F 2 "" V 8480 2800 50  0001 C CNN
+F 3 "~" H 8550 2800 50  0001 C CNN
+	1    8550 2800
 	0    1    1    0   
 $EndComp
 Wire Wire Line
@@ -132,8 +132,6 @@ Wire Wire Line
 	3650 3000 1200 3000
 Wire Wire Line
 	5650 3700 6900 3700
-Wire Wire Line
-	6900 3700 6900 5150
 $Comp
 L Connector:Conn_01x06_Female J?
 U 1 1 613D4830
@@ -145,10 +143,6 @@ F 3 "~" H 1000 3100 50  0001 C CNN
 	1    1000 3100
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	2500 3300 1200 3300
-Wire Wire Line
-	2500 3300 2500 5150
 Text Label 1250 2800 0    50   ~ 0
 VDD
 Text Label 1250 2900 0    50   ~ 0
@@ -318,8 +312,6 @@ $EndComp
 Wire Wire Line
 	9250 4300 9150 4300
 Wire Wire Line
-	2500 5150 6900 5150
-Wire Wire Line
 	8650 4000 9250 4000
 Wire Wire Line
 	8650 4200 8900 4200
@@ -433,4 +425,32 @@ Wire Wire Line
 Wire Wire Line
 	2100 1150 2700 1150
 Connection ~ 2700 1150
+Text GLabel 7950 2400 1    50   Input ~ 0
+GND
+Wire Wire Line
+	7950 2600 7950 2400
+Wire Wire Line
+	5650 3300 6900 3300
+Wire Wire Line
+	6900 3300 6900 2800
+Wire Wire Line
+	6900 2800 7650 2800
+Wire Wire Line
+	8200 2800 8400 2800
+Wire Wire Line
+	8700 2800 9250 2800
+Text GLabel 9250 2800 2    50   Input ~ 0
+LED_DIN
+Text GLabel 6900 3700 2    50   Input ~ 0
+RESET
+Text GLabel 2000 3300 2    50   Input ~ 0
+RESET
+Wire Wire Line
+	1200 3300 2000 3300
+Text GLabel 10100 1450 2    50   Input ~ 0
+MIDI_DIN
+Text GLabel 3150 4000 0    50   Input ~ 0
+MIDI_DIN
+Wire Wire Line
+	3150 4000 3650 4000
 $EndSCHEMATC

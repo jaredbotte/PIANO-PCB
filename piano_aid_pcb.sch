@@ -414,7 +414,7 @@ $EndComp
 Wire Wire Line
 	2600 850  2600 800 
 Wire Wire Line
-	1650 850  2600 850 
+	1650 850  2250 850 
 Wire Wire Line
 	2600 850  3000 850 
 Connection ~ 2600 850 
@@ -423,7 +423,7 @@ Wire Wire Line
 Wire Wire Line
 	2700 1150 3000 1150
 Wire Wire Line
-	2100 1150 2700 1150
+	2100 1150 2250 1150
 Connection ~ 2700 1150
 Text GLabel 7950 2400 1    50   Input ~ 0
 GND
@@ -453,4 +453,21 @@ Text GLabel 3150 4000 0    50   Input ~ 0
 MIDI_DIN
 Wire Wire Line
 	3150 4000 3650 4000
+$Comp
+L Device:CP1 C?
+U 1 1 61480AF3
+P 2250 1000
+F 0 "C?" H 2365 1046 50  0000 L CNN
+F 1 "0.1µ" H 2365 955 50  0000 L CNN
+F 2 "" H 2250 1000 50  0001 C CNN
+F 3 "~" H 2250 1000 50  0001 C CNN
+	1    2250 1000
+	1    0    0    -1  
+$EndComp
+Connection ~ 2250 850 
+Wire Wire Line
+	2250 850  2600 850 
+Connection ~ 2250 1150
+Wire Wire Line
+	2250 1150 2700 1150
 $EndSCHEMATC
