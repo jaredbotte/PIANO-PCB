@@ -318,9 +318,6 @@ Wire Wire Line
 Connection ~ 8900 4200
 NoConn ~ 6600 1000
 NoConn ~ 6600 1900
-NoConn ~ 7050 1450
-Wire Wire Line
-	6900 1450 7050 1450
 Wire Wire Line
 	6600 1150 6600 1000
 Wire Wire Line
@@ -470,4 +467,37 @@ Wire Wire Line
 Connection ~ 2250 1150
 Wire Wire Line
 	2250 1150 2700 1150
+Wire Wire Line
+	7250 1450 7250 1750
+Wire Wire Line
+	6900 1450 7250 1450
+$Comp
+L Device:CP1 C?
+U 1 1 6148405B
+P 7250 1900
+F 0 "C?" H 7365 1946 50  0000 L CNN
+F 1 "0.1µ" H 7365 1855 50  0000 L CNN
+F 2 "" H 7250 1900 50  0001 C CNN
+F 3 "~" H 7250 1900 50  0001 C CNN
+	1    7250 1900
+	1    0    0    -1  
+$EndComp
+Text GLabel 7250 2050 3    50   Input ~ 0
+GND
+Wire Wire Line
+	8000 2850 8000 2950
+Wire Wire Line
+	8000 2950 8300 2950
+Wire Wire Line
+	8300 2950 8300 3250
+Wire Wire Line
+	8000 2750 8000 2650
+Wire Wire Line
+	8000 2650 8300 2650
+Wire Wire Line
+	8300 2650 8300 2400
+Text GLabel 8300 3250 3    50   Input ~ 0
+GND
+Text GLabel 8300 2400 1    50   Input ~ 0
+5V
 $EndSCHEMATC
