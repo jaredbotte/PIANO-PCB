@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name 57PC5F)(type Legacy)(uri /Users/jared/Documents/senior-design/Parts/57PC5F/57PC5F.lib)(options "")(descr ""))
+  (lib (name piano_aid_pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/piano_aid_pcb-rescue.lib)(options "")(descr ""))
 )

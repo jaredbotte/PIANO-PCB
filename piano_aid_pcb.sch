@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 "Author: Jared Botte"
 $EndDescr
 $Comp
-L 317030213:317030213 U?
+L piano_aid_pcb-rescue:317030213-317030213 U?
 U 1 1 6137BBB1
 P 4650 3700
 F 0 "U?" H 4650 5167 50  0000 C CNN
@@ -53,7 +53,7 @@ L Device:CP1 C?
 U 1 1 61397A33
 P 1650 1000
 F 0 "C?" H 1765 1046 50  0000 L CNN
-F 1 "CP1" H 1765 955 50  0000 L CNN
+F 1 "1000µ" H 1765 955 50  0000 L CNN
 F 2 "" H 1650 1000 50  0001 C CNN
 F 3 "~" H 1650 1000 50  0001 C CNN
 	1    1650 1000
@@ -270,15 +270,11 @@ Wire Wire Line
 	9750 1450 10100 1450
 Wire Wire Line
 	1200 3100 2000 3100
-Text GLabel 2300 850  2    50   Input ~ 0
+Text GLabel 3000 850  2    50   Input ~ 0
 5V
-Text GLabel 2300 1150 2    50   Input ~ 0
+Text GLabel 3000 1150 2    50   Input ~ 0
 GND
-Wire Wire Line
-	1650 1150 2300 1150
 Connection ~ 1650 1150
-Wire Wire Line
-	1650 850  2300 850 
 Connection ~ 1650 850 
 Text GLabel 9250 800  1    50   Input ~ 0
 5V
@@ -356,4 +352,85 @@ Wire Wire Line
 	5650 4000 8300 4000
 Wire Wire Line
 	8300 4500 8900 4500
+$Comp
+L Regulator_Linear:AZ1117-3.3 U?
+U 1 1 6144F069
+P 1800 2050
+F 0 "U?" H 1800 2199 50  0000 C CNN
+F 1 "AZ1117-3.3" H 1800 2290 50  0000 C CNN
+F 2 "" H 1800 2300 50  0001 C CIN
+F 3 "https://www.diodes.com/assets/Datasheets/AZ1117.pdf" H 1800 2050 50  0001 C CNN
+	1    1800 2050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1650 1150 1800 1150
+Connection ~ 1800 1150
+Wire Wire Line
+	1800 1150 2100 1150
+Connection ~ 2100 1150
+$Comp
+L Device:CP1 C?
+U 1 1 61457074
+P 1950 1550
+F 0 "C?" V 1698 1550 50  0000 C CNN
+F 1 "10µ" V 1789 1550 50  0000 C CNN
+F 2 "" H 1950 1550 50  0001 C CNN
+F 3 "~" H 1950 1550 50  0001 C CNN
+	1    1950 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:CP1 C?
+U 1 1 6145E06D
+P 1650 1550
+F 0 "C?" V 1902 1550 50  0000 C CNN
+F 1 "22µ" V 1811 1550 50  0000 C CNN
+F 2 "" H 1650 1550 50  0001 C CNN
+F 3 "~" H 1650 1550 50  0001 C CNN
+	1    1650 1550
+	0    -1   -1   0   
+$EndComp
+Connection ~ 2100 1550
+Wire Wire Line
+	2100 1550 2100 2050
+Connection ~ 1800 1550
+Wire Wire Line
+	1800 1550 1800 1750
+Wire Wire Line
+	1500 1550 1500 2050
+Wire Wire Line
+	2100 1150 2100 1550
+Wire Wire Line
+	1800 1150 1800 1550
+Wire Wire Line
+	1500 1550 1200 1550
+Connection ~ 1500 1550
+Text GLabel 1200 1550 0    50   Input ~ 0
+3.3V
+$Comp
+L Connector:Screw_Terminal_01x02 J?
+U 1 1 61467FBD
+P 2600 600
+F 0 "J?" V 2564 412 50  0000 R CNN
+F 1 "Screw_Terminal_01x02" V 2473 412 50  0000 R CNN
+F 2 "" H 2600 600 50  0001 C CNN
+F 3 "~" H 2600 600 50  0001 C CNN
+	1    2600 600 
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2600 850  2600 800 
+Wire Wire Line
+	1650 850  2600 850 
+Wire Wire Line
+	2600 850  3000 850 
+Connection ~ 2600 850 
+Wire Wire Line
+	2700 800  2700 1150
+Wire Wire Line
+	2700 1150 3000 1150
+Wire Wire Line
+	2100 1150 2700 1150
+Connection ~ 2700 1150
 $EndSCHEMATC
