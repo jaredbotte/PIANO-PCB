@@ -168,11 +168,10 @@ Wire Wire Line
 Wire Wire Line
 	8650 4000 9250 4000
 Wire Wire Line
-	8650 4200 8900 4200
+	8650 4200 8700 4200
 Connection ~ 8900 4200
 Wire Wire Line
 	9250 3800 5650 3800
-NoConn ~ 9250 4400
 NoConn ~ 9250 3700
 Wire Wire Line
 	9250 3900 5650 3900
@@ -470,4 +469,26 @@ Wire Wire Line
 	2900 6600 3250 6600
 Wire Wire Line
 	3250 6600 3250 7000
+Wire Wire Line
+	8700 4200 8700 4550
+Connection ~ 8700 4200
+Wire Wire Line
+	8700 4200 8900 4200
+$Comp
+L Device:R R?
+U 1 1 6146BED1
+P 8700 4700
+F 0 "R?" V 8493 4700 50  0000 C CNN
+F 1 "10k" V 8584 4700 50  0000 C CNN
+F 2 "" V 8630 4700 50  0001 C CNN
+F 3 "~" H 8700 4700 50  0001 C CNN
+	1    8700 4700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8700 4900 9250 4900
+Wire Wire Line
+	9250 4400 9250 4900
+Wire Wire Line
+	8700 4900 8700 4850
 $EndSCHEMATC
