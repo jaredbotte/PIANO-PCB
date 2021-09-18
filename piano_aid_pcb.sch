@@ -11,7 +11,7 @@ Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 ""
-Comment4 "Author: Jared Botte"
+Comment4 "Authors: Jared Botte, Jerry Liu"
 $EndDescr
 $Comp
 L piano_aid_pcb-rescue:317030213-317030213 U?
