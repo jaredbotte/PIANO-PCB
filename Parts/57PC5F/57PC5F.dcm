@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 57PC5F
+D Switchcraft 57PC Series, 5 Pole Right Angle Din Socket, 3A, 34 V dc
+K
+F http://www.switchcraft.com/Drawings/57PC5F_CD.pdf
+$ENDCMP
+#
+#End Doc Library
