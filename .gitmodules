@@ -1,0 +1,6 @@
+[submodule "kicad-libs"]
+	path = kicad-libs
+	url = git@github.com:adafruit/kicad-libs.git
+[submodule "digikey-kicad-library"]
+	path = digikey-kicad-library
+	url = git@github.com:Digi-Key/digikey-kicad-library.git
