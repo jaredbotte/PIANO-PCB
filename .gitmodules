@@ -4,3 +4,6 @@
 [submodule "digikey-kicad-library"]
 	path = digikey-kicad-library
 	url = git@github.com:Digi-Key/digikey-kicad-library.git
+[submodule "Adafruit-Eagle-Library"]
+	path = Adafruit-Eagle-Library
+	url = git@github.com:adafruit/Adafruit-Eagle-Library.git
