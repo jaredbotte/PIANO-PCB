@@ -4,4 +4,5 @@
   (lib (name 57PC5F)(type KiCad)(uri "U:/My Documents/PIANO-PCB/Parts/57PC5F")(options "")(descr ""))
   (lib (name 74AHCT1G125SE-7)(type KiCad)(uri "U:/My Documents/PIANO-PCB/Parts/74AHCT1G125SE-7")(options "")(descr ""))
   (lib (name 2021-09-23_22-23-04)(type KiCad)(uri "U:/My Documents/PIANO-PCB/Parts/ul_AZ1117IH-3-3TRG1/KiCAD/2021-09-23_22-23-04/footprints.pretty")(options "")(descr ""))
+  (lib (name C1206C226M9PACTU)(type KiCad)(uri "U:/My Documents/PIANO-PCB/Parts/C1206C226M9PACTU")(options "")(descr ""))
 )

@@ -43,7 +43,7 @@ U 1 1 61397A33
 P 1550 1150
 F 0 "C1" H 1665 1196 50  0000 L CNN
 F 1 "1000µ" H 1665 1105 50  0000 L CNN
-F 2 "" H 1550 1150 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" H 1550 1150 50  0001 C CNN
 F 3 "~" H 1550 1150 50  0001 C CNN
 	1    1550 1150
 	1    0    0    -1  
@@ -72,10 +72,6 @@ Wire Wire Line
 Wire Wire Line
 	1400 1300 1550 1300
 Wire Wire Line
-	1200 2900 3650 2900
-Wire Wire Line
-	3650 3000 1200 3000
-Wire Wire Line
 	5650 3700 6900 3700
 $Comp
 L Connector:Conn_01x06_Female J4
@@ -83,24 +79,24 @@ U 1 1 613D4830
 P 1000 3100
 F 0 "J4" H 892 2575 50  0000 C CNN
 F 1 "Conn_01x06_Female" H 892 2666 50  0000 C CNN
-F 2 "" H 1000 3100 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 1000 3100 50  0001 C CNN
 F 3 "~" H 1000 3100 50  0001 C CNN
 	1    1000 3100
 	-1   0    0    1   
 $EndComp
 Text Label 1250 2800 0    50   ~ 0
 VDD
-Text Label 1250 2900 0    50   ~ 0
-SWDCLK
 Text Label 1250 3000 0    50   ~ 0
+SWDCLK
+Text Label 1250 3100 0    50   ~ 0
 SWDIO
 Wire Wire Line
-	1200 3200 2000 3200
-Text Label 1250 3200 0    50   ~ 0
-GND
-Text Label 1250 3100 0    50   ~ 0
-GND_DETECT
+	1200 3300 2000 3300
 Text Label 1250 3300 0    50   ~ 0
+GND
+Text Label 1250 3200 0    50   ~ 0
+GND_DETECT
+Text Label 1250 2900 0    50   ~ 0
 RESET
 $Comp
 L Device:R R5
@@ -114,7 +110,7 @@ F 3 "~" H 8900 4350 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	1200 3100 2000 3100
+	1200 3200 2000 3200
 Text GLabel 2900 1000 2    50   Input ~ 0
 5V
 Text GLabel 2900 1300 2    50   Input ~ 0
@@ -133,9 +129,9 @@ Text GLabel 2000 2800 2    50   Input ~ 0
 3.3V
 Text GLabel 5650 4900 2    50   Input ~ 0
 GND
-Text GLabel 2000 3100 2    50   Input ~ 0
-GND
 Text GLabel 2000 3200 2    50   Input ~ 0
+GND
+Text GLabel 2000 3300 2    50   Input ~ 0
 GND
 Text GLabel 8650 4000 0    50   Input ~ 0
 GND
@@ -163,18 +159,12 @@ Wire Wire Line
 	9250 3800 5650 3800
 NoConn ~ 9250 3700
 Wire Wire Line
-	9250 3900 5650 3900
-Wire Wire Line
 	9250 4100 5650 4100
 Wire Wire Line
 	9150 4500 8900 4500
 Wire Wire Line
 	9150 4300 9150 4500
 Connection ~ 8900 4500
-Wire Wire Line
-	8300 4000 8300 4500
-Wire Wire Line
-	5650 4000 8300 4000
 Wire Wire Line
 	8300 4500 8900 4500
 $Comp
@@ -191,30 +181,16 @@ $EndComp
 Wire Wire Line
 	1550 1300 1700 1300
 Connection ~ 1700 1300
-Wire Wire Line
-	1700 1300 2000 1300
-Connection ~ 2000 1300
 $Comp
 L Device:CP1 C4
 U 1 1 61457074
 P 1850 1700
 F 0 "C4" V 1598 1700 50  0000 C CNN
 F 1 "10µ" V 1689 1700 50  0000 C CNN
-F 2 "" H 1850 1700 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1850 1700 50  0001 C CNN
 F 3 "~" H 1850 1700 50  0001 C CNN
 	1    1850 1700
 	0    1    1    0   
-$EndComp
-$Comp
-L Device:CP1 C3
-U 1 1 6145E06D
-P 1550 1700
-F 0 "C3" V 1802 1700 50  0000 C CNN
-F 1 "22µ" V 1711 1700 50  0000 C CNN
-F 2 "" H 1550 1700 50  0001 C CNN
-F 3 "~" H 1550 1700 50  0001 C CNN
-	1    1550 1700
-	0    -1   -1   0   
 $EndComp
 Connection ~ 2000 1700
 Wire Wire Line
@@ -225,8 +201,6 @@ Wire Wire Line
 Wire Wire Line
 	1400 1700 1400 2200
 Wire Wire Line
-	2000 1300 2000 1700
-Wire Wire Line
 	1700 1300 1700 1700
 Wire Wire Line
 	1400 1700 1100 1700
@@ -234,14 +208,12 @@ Connection ~ 1400 1700
 Text GLabel 1100 1700 0    50   Input ~ 0
 3.3V
 Wire Wire Line
-	1550 1000 2150 1000
+	1550 1000 2000 1000
 Wire Wire Line
 	2500 1000 2900 1000
 Connection ~ 2500 1000
 Wire Wire Line
 	2600 1300 2900 1300
-Wire Wire Line
-	2000 1300 2150 1300
 Connection ~ 2600 1300
 Wire Wire Line
 	5650 3300 6900 3300
@@ -257,17 +229,17 @@ Text GLabel 10100 2500 2    50   Input ~ 0
 LED_CONTROL_OUT
 Text GLabel 6900 3700 2    50   Input ~ 0
 RESET
-Text GLabel 2000 3300 2    50   Input ~ 0
+Text GLabel 2000 2900 2    50   Input ~ 0
 RESET
 Wire Wire Line
-	1200 3300 2000 3300
+	1200 2900 2000 2900
 $Comp
 L Device:CP1 C2
 U 1 1 61480AF3
 P 2150 1150
 F 0 "C2" H 2265 1196 50  0000 L CNN
 F 1 "0.1µ" H 2265 1105 50  0000 L CNN
-F 2 "" H 2150 1150 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2150 1150 50  0001 C CNN
 F 3 "~" H 2150 1150 50  0001 C CNN
 	1    2150 1150
 	1    0    0    -1  
@@ -349,7 +321,7 @@ U 1 1 6148405B
 P 1050 6600
 F 0 "C5" H 1165 6646 50  0000 L CNN
 F 1 "0.1µ" H 1165 6555 50  0000 L CNN
-F 2 "" H 1050 6600 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1050 6600 50  0001 C CNN
 F 3 "~" H 1050 6600 50  0001 C CNN
 	1    1050 6600
 	1    0    0    -1  
@@ -396,7 +368,7 @@ U 1 1 613CE47C
 P 2600 6400
 F 0 "U2" H 2600 6867 50  0000 C CNN
 F 1 "6N138" H 2600 6776 50  0000 C CNN
-F 2 "" H 2890 6100 50  0001 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm" H 2890 6100 50  0001 C CNN
 F 3 "http://www.onsemi.com/pub/Collateral/HCPL2731-D.pdf" H 2890 6100 50  0001 C CNN
 	1    2600 6400
 	1    0    0    -1  
@@ -514,8 +486,6 @@ NoConn ~ 5650 3200
 NoConn ~ 5650 3400
 NoConn ~ 5650 3500
 NoConn ~ 5650 3600
-NoConn ~ 5650 4200
-NoConn ~ 5650 4300
 NoConn ~ 5650 4400
 NoConn ~ 5650 4500
 NoConn ~ 5650 4600
@@ -574,7 +544,7 @@ U 1 1 61506421
 P 2150 4450
 F 0 "D2" V 2047 4628 60  0000 L CNN
 F 1 "LED_BLUE" V 2153 4628 60  0000 L CNN
-F 2 "digikey-footprints:0603" H 2350 4650 60  0001 L CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2350 4650 60  0001 L CNN
 F 3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-230/LTST-C191TBKT.pdf" H 2350 4750 60  0001 L CNN
 F 4 "160-1647-1-ND" H 2350 4850 60  0001 L CNN "Digi-Key_PN"
 F 5 "LTST-C191TBKT" H 2350 4950 60  0001 L CNN "MPN"
@@ -594,7 +564,7 @@ U 1 1 615118D7
 P 2900 4450
 F 0 "D3" V 2797 4628 60  0000 L CNN
 F 1 "LED_GREEN" V 2903 4628 60  0000 L CNN
-F 2 "digikey-footprints:0603" H 3100 4650 60  0001 L CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3100 4650 60  0001 L CNN
 F 3 "https://dammedia.osram.info/media/resource/hires/osram-dam-2493945/LG%20L29K.pdf" H 3100 4750 60  0001 L CNN
 F 4 "475-2709-1-ND" H 3100 4850 60  0001 L CNN "Digi-Key_PN"
 F 5 "LG L29K-G2J1-24-Z" H 3100 4950 60  0001 L CNN "MPN"
@@ -608,4 +578,96 @@ F 12 "Active" H 3100 5650 60  0001 L CNN "Status"
 	1    2900 4450
 	0    1    1    0   
 $EndComp
+Text GLabel 8300 1000 0    50   Input ~ 0
+3.3V
+Text GLabel 8900 1000 2    50   Input ~ 0
+GND
+$Comp
+L Device:CP1 C6
+U 1 1 614E35CA
+P 8600 1000
+F 0 "C6" V 8850 950 50  0000 L CNN
+F 1 "10µ" V 8750 900 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8600 1000 50  0001 C CNN
+F 3 "~" H 8600 1000 50  0001 C CNN
+	1    8600 1000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8750 1000 8900 1000
+Wire Wire Line
+	8300 1000 8450 1000
+$Comp
+L Device:C C7
+U 1 1 614E98EF
+P 8600 1450
+F 0 "C7" V 8348 1450 50  0000 C CNN
+F 1 "0.1µ" V 8439 1450 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8638 1300 50  0001 C CNN
+F 3 "~" H 8600 1450 50  0001 C CNN
+	1    8600 1450
+	0    1    1    0   
+$EndComp
+Text GLabel 8300 1450 0    50   Input ~ 0
+3.3V
+Text GLabel 8900 1450 2    50   Input ~ 0
+GND
+Wire Wire Line
+	8450 1450 8300 1450
+Wire Wire Line
+	8750 1450 8900 1450
+$Comp
+L C1206C226M9PACTU:C1206C226M9PACTU C3
+U 1 1 614F3A2A
+P 1500 1700
+F 0 "C3" H 1550 1940 50  0000 C CNN
+F 1 "22µ" H 1550 1849 50  0000 C CNN
+F 2 "C1206C226M9PACTU:CAPC3216X110N" H 1500 1700 50  0001 L BNN
+F 3 "" H 1500 1700 50  0001 L BNN
+	1    1500 1700
+	1    0    0    -1  
+$EndComp
+Text GLabel 8650 3900 0    50   Input ~ 0
+CMD
+Wire Wire Line
+	8650 3900 9250 3900
+Wire Wire Line
+	5650 4200 6900 4200
+Text GLabel 6900 4200 2    50   Input ~ 0
+CMD
+Text GLabel 8300 4500 0    50   Input ~ 0
+DAT0
+Wire Wire Line
+	5650 4300 6900 4300
+Text GLabel 6900 4300 2    50   Input ~ 0
+DAT0
+NoConn ~ 5650 3900
+NoConn ~ 5650 4000
+Text Notes 7450 650  0    50   ~ 0
+These caps should be placed directly next to P11/P12 of U1
+Text Notes 5700 4000 0    50   ~ 10
+DO NOT USE P40,P41
+Text GLabel 3300 2900 0    50   Input ~ 0
+SWDCLK
+Text GLabel 3300 3000 0    50   Input ~ 0
+SWDIO
+Text GLabel 2000 3100 2    50   Input ~ 0
+SWDIO
+Text GLabel 2000 3000 2    50   Input ~ 0
+SWDCLK
+Wire Wire Line
+	1200 3100 2000 3100
+Wire Wire Line
+	1200 3000 2000 3000
+Wire Wire Line
+	3300 2900 3650 2900
+Wire Wire Line
+	3300 3000 3650 3000
+Connection ~ 2000 1000
+Wire Wire Line
+	2000 1000 2150 1000
+Wire Wire Line
+	2000 1000 2000 1700
+Wire Wire Line
+	1700 1300 2150 1300
 $EndSCHEMATC
