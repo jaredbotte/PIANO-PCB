@@ -7,3 +7,6 @@
 [submodule "Adafruit-Eagle-Library"]
 	path = Adafruit-Eagle-Library
 	url = https://github.com/adafruit/Adafruit-Eagle-Library.git
+[submodule "kicad-footprints"]
+	path = kicad-footprints
+	url = https://gitlab.com/kicad/libraries/kicad-footprints.git
