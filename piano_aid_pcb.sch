@@ -593,7 +593,7 @@ F 5 "Seeed Technology Co" H 4650 3700 50  0001 L BNN "MANUFACTURER"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Barrel_Jack_MountingPin J1
+L piano_aid_pcb-rescue:Barrel_Jack_MountingPin-Connector J1
 U 1 1 61503033
 P 1150 1350
 F 0 "J1" H 1207 1667 50  0000 C CNN

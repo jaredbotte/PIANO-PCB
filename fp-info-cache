@@ -75729,79 +75729,79 @@ adafruit
 4-1734839-0
 <b>Reduced-area Rotary Backlock Type (0.5 mm-pitch)</b><p>
 Source : http://www.omron.com/ecb/products/pdf/fpc.pdf
-
+0
 0
 42
 42
 adafruit
 5-STRIP
 
-
+0
 0
 0
 0
 adafruit
 6MM
 
-
+0
 0
 3
 3
 adafruit
 8-STRIP
 
-
+0
 0
 0
 0
 adafruit
 9.7ELECTRET
 
-
+0
 0
 2
 2
 adafruit
 12-STRIP
 
-
+0
 0
 0
 0
 adafruit
 12BH412
 
-
+0
 0
 2
 2
 adafruit
 16LCSP
 
-
+0
 0
 16
 16
 adafruit
 085CS_1AR
 <b>Aluminum electrolytic capacitors</b> reflow soldering<p>
-SMD (Chip) Standard 085 CS<p>
+0
+0
+0
+0
+2
+2
+adafruit
+85
+0
+0
 http://www.bccomponents.com/
 
 0
 2
 2
-adafruit
-085CS_1AW
-<b>Aluminum electrolytic capacitors</b> wave soldering<p>
-SMD (Chip) Standard 085 CS<p>
-http://www.bccomponents.com/
-
 0
-2
-2
-adafruit
-085CS_1R
+85
 <b>Aluminum electrolytic capacitors</b> reflow soldering<p>
 SMD (Chip) Standard 085 CS<p>
 http://www.bccomponents.com/
@@ -75813,65 +75813,65 @@ adafruit
 085CS_1W
 <b>Aluminum electrolytic capacitors</b> wave soldering<p>
 SMD (Chip) Standard 085 CS<p>
-http://www.bccomponents.com/
-
+0
+0
 0
 2
 2
 adafruit
 86SMX
-<b>CRYSTAL RESONATOR</b>
-
+0
+0
 0
 4
 4
 adafruit
 139CLL-2R
-<b>Aluminum electrolytic capacitors</b> reflow soldering<p>
+0
+0
+0
+
+0
+2
+2
+0
+139
+0
 SMD (Chip) Long Life 139 CLL<p>
 http://www.bccomponents.com/
 
 0
 2
 2
-adafruit
-139CLL-2W
-<b>Aluminum electrolytic capacitors</b> wave soldering<p>
-SMD (Chip) Long Life 139 CLL<p>
-http://www.bccomponents.com/
-
 0
-2
-2
-adafruit
 139CLL-3R
 <b>Aluminum electrolytic capacitors</b> reflow soldering<p>
 SMD (Chip) Long Life 139 CLL<p>
 http://www.bccomponents.com/
-
+0
 0
 2
 2
 adafruit
 139CLL-3W
 <b>Aluminum electrolytic capacitors</b> wave soldering<p>
-SMD (Chip) Long Life 139 CLL<p>
+0
+0
+0
+0
+2
+2
+adafruit
+140
+0
+0
 http://www.bccomponents.com/
 
 0
 2
 2
-adafruit
-140CLH-0810
-<b>Aluminum electrolytic capacitors SMD (Chip)</b><p>
-Long life base plate, High temperature 140 CLH<p>
-http://www.bccomponents.com/
-
 0
-2
-2
-adafruit
-140CLH-1010
+140
 <b>Aluminum electrolytic capacitors SMD (Chip)</b><p>
 Long life base plate, High temperature 140 CLH<p>
 http://www.bccomponents.com/
@@ -75883,58 +75883,58 @@ adafruit
 140CLH-1014
 <b>Aluminum electrolytic capacitors SMD (Chip)</b><p>
 Long life base plate, High temperature 140 CLH<p>
-http://www.bccomponents.com/
-
+0
+0
 0
 2
 2
 adafruit
 150CLZ-0810
-<b>Aluminum electrolytic capacitors SMD (Chip)</b><p>
+0
+0
+0
+
+0
+2
+2
+0
+150
+0
 Long life base plate, very low impedance 150 CLZ<p>
 http://www.bccomponents.com/
 
 0
 2
 2
-adafruit
-150CLZ-1010
-<b>Aluminum electrolytic capacitors SMD (Chip)</b><p>
-Long life base plate, very low impedance 150 CLZ<p>
-http://www.bccomponents.com/
-
 0
-2
-2
-adafruit
 150CLZ-1014
 <b>Aluminum electrolytic capacitors SMD (Chip)</b><p>
 Long life base plate, very low impedance 150 CLZ<p>
 http://www.bccomponents.com/
-
+0
 0
 2
 2
 adafruit
 153CLV-0405
 <b>Aluminum electrolytic capacitors</b><p>
-SMD (Chip) Long Life Vertical 153 CLV<p>
+0
+0
+0
+0
+2
+2
+adafruit
+153
+0
+0
 http://www.bccomponents.com/
 
 0
 2
 2
-adafruit
-153CLV-0505
-<b>Aluminum electrolytic capacitors</b><p>
-SMD (Chip) Long Life Vertical 153 CLV<p>
-http://www.bccomponents.com/
-
 0
-2
-2
-adafruit
-153CLV-0605
+153
 <b>Aluminum electrolytic capacitors</b><p>
 SMD (Chip) Long Life Vertical 153 CLV<p>
 http://www.bccomponents.com/
@@ -75946,58 +75946,58 @@ adafruit
 153CLV-0807
 <b>Aluminum electrolytic capacitors</b><p>
 SMD (Chip) Long Life Vertical 153 CLV<p>
-http://www.bccomponents.com/
-
+0
+0
 0
 2
 2
 adafruit
 153CLV-0810
-<b>Aluminum electrolytic capacitors</b><p>
+0
+0
+0
+
+0
+2
+2
+0
+153
+0
 SMD (Chip) Long Life Vertical 153 CLV<p>
 http://www.bccomponents.com/
 
 0
 2
 2
-adafruit
-153CLV-1010
-<b>Aluminum electrolytic capacitors</b><p>
-SMD (Chip) Long Life Vertical 153 CLV<p>
-http://www.bccomponents.com/
-
 0
-2
-2
-adafruit
 153CLV-1012
 <b>Aluminum electrolytic capacitors</b><p>
 SMD (Chip) Long Life Vertical 153 CLV<p>
 http://www.bccomponents.com/
-
+0
 0
 2
 2
 adafruit
 153CLV-1014
 <b>Aluminum electrolytic capacitors</b><p>
-SMD (Chip) Long Life Vertical 153 CLV<p>
+0
+0
+0
+0
+2
+2
+adafruit
+175
+0
+0
 http://www.bccomponents.com/
 
 0
 2
 2
-adafruit
-175TMP-0808
-<b>Aluminum electrolytic capacitors</b><p>
-High Temperature solid electrolytic SMD 175 TMP<p>
-http://www.bccomponents.com/
-
 0
-2
-2
-adafruit
-175TMP-0810
+175
 <b>Aluminum electrolytic capacitors</b><p>
 High Temperature solid electrolytic SMD 175 TMP<p>
 http://www.bccomponents.com/
@@ -76009,58 +76009,58 @@ adafruit
 0204V
 <b>RESISTOR</b><p>
 type 0204, grid 2.5 mm
-
+0
 0
 2
 2
 adafruit
 0204_5
 <b>RESISTOR</b><p>
-type 0204, grid 5 mm
-
+0
+0
 0
 2
 2
 adafruit
 0204_7
-<b>RESISTOR</b><p>
-type 0204, grid 7.5 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-0207_2V
-<b>RESISTOR</b><p>
-type 0207, grid 2.5 mm
+207
+0
+0
 
 0
 2
 2
-adafruit
-0207_5V
-<b>RESISTOR</b><p>
+0
+207
+0
 type 0207, grid 5 mm
 
 0
 2
 2
-adafruit
-0207_7
+0
+207
 <b>RESISTOR</b><p>
 type 0207, grid 7.5 mm
 
 0
 2
 2
-adafruit
+0
 0207_9
 
 
 0
 2
 2
-adafruit
+0
 0207_10
 <b>RESISTOR</b><p>
 type 0207, grid 10 mm
@@ -76072,51 +76072,51 @@ adafruit
 0207_12
 <b>RESISTOR</b><p>
 type 0207, grid 12 mm
-
+0
 0
 2
 2
 adafruit
 0207_15
 <b>RESISTOR</b><p>
-type 0207, grid 15mm
-
+0
+0
 0
 2
 2
 adafruit
 0309V
-<b>RESISTOR</b><p>
-type 0309, grid 2.5 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-0309_10
-<b>RESISTOR</b><p>
-type 0309, grid 10mm
+309
+0
+0
 
 0
 2
 2
-adafruit
-0309_12
-<b>RESISTOR</b><p>
+0
+309
+0
 type 0309, grid 12.5 mm
 
 0
 2
 2
-adafruit
-0411V
+0
+411
 <b>RESISTOR</b><p>
 type 0411, grid 3.81 mm
 
 0
 2
 2
-adafruit
+0
 0411_12
 <b>RESISTOR</b><p>
 type 0411, grid 12.5 mm
@@ -76128,72 +76128,72 @@ adafruit
 0411_15
 <b>RESISTOR</b><p>
 type 0411, grid 15 mm
-
+0
 0
 2
 2
 adafruit
 414-VA5R
 
-
+0
 0
 2
 2
 adafruit
 0414V
 <b>RESISTOR</b><p>
-type 0414, grid 5 mm
-
+0
+0
 0
 2
 2
 adafruit
 0414_15
-<b>RESISTOR</b><p>
-type 0414, grid 15 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-0617V
-<b>RESISTOR</b><p>
-type 0617, grid 5 mm
+617
+0
+0
 
 0
 2
 2
-adafruit
-0617_17
-<b>RESISTOR</b><p>
+0
+617
+0
 type 0617, grid 17.5 mm
 
 0
 2
 2
-adafruit
-0617_22
+0
+617
 <b>RESISTOR</b><p>
 type 0617, grid 22.5 mm
 
 0
 2
 2
-adafruit
+0
 0805-THM
 
 
 0
 2
 2
-adafruit
+0
 0805-THM-7
 
 
 0
 2
 2
-adafruit
+0
 0922V
 <b>RESISTOR</b><p>
 type 0922, grid 7.5 mm
@@ -76205,226 +76205,226 @@ adafruit
 0922_22
 <b>RESISTOR</b><p>
 type 0922, grid 22.5 mm
-
+0
 0
 2
 2
 adafruit
 1035D
 
-
+0
 0
 22
 22
 adafruit
 1206
 <b>CHICAGO MINIATURE LAMP, INC.</b><p>
-7022X Series SMT LEDs 1206 Package Size
-
+7022
+0
 0
 2
 2
 adafruit
 1800R
-
-
+0
+0
 0
 2
 2
 adafruit
 1812
-Multilayer SMD
-
+0
+0
 0
 2
 2
 adafruit
 2747
-
-
+0
+0
 0
 2
 2
 adafruit
 6000
-
-
+0
+0
 0
 2
 2
 adafruit
 06132
-
-
+0
+0
 0
 15
 15
 adafruit
 ADAFRUIT200MIL
-
-
+0
+0
 0
 0
 0
 adafruit
 ADAFRUIT450MIL
-
-
+0
+0
 0
 0
 0
 adafruit
 AG
-<B>DIODE</B><p>
-diameter 9 mm, horizontal, grid 10.16 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-AL11P
-<b>SPEAKER</b>
-
+0
+0
+0
 0
 2
 2
 adafruit
-AL60P
-<b>SPEAKER</b>
-
+0
+0
+0
 0
 2
 2
 adafruit
-ALTOIDSSMALLS
-
-
+0
+0
+0
 0
 0
 0
 adafruit
-ALTOIDSTIN
-
-
+0
+0
+0
 0
 0
 0
 adafruit
-ALTOIDSTIN-DIM
-
-
+0
+0
+0
 0
 0
 0
 adafruit
-ARDUINO
-<b>Arduino Uno</b>
-<p>
+0
+0
+0
 Make a shield with ease, this package has all the named pins as well as the two mounting drill holes and an outline of the USB and DC power connector. The outline is on the DIMENSION layer, so if your board house uses it they will cut the outline to match.
 
 0
 28
 28
-adafruit
-ARDUINO-BPLACE
+0
+0
 
 
 0
 28
 28
-adafruit
-ARDUINO-NODIM
+0
+0
 
 
 0
 28
 28
-adafruit
-ARDUINO-NOHOLE
+0
+0
 
 
 0
 28
 28
-adafruit
-ARDUINOMICRO
+0
+0
 
 
 0
 34
 34
-adafruit
-ARDUINOR3
+0
+0
 The new Arduino R3 'classic' adds duplicate I2C pins and an IORef pin (and an unused pin
 
 0
 32
 32
-adafruit
-ARDUINOR3-BPLACE
+0
+0
 
 
 0
 32
 32
-adafruit
-ARDUINOR3-NOTEXT-NOIOREF
+0
+0
 
 
 0
 30
 30
-adafruit
-ARDUINOR3_ICSP
+0
+0
 
 
 0
 38
 38
-adafruit
-ARDUINOR3_ICSP_NODIM
+0
+0
 
 
 0
 38
 38
-adafruit
-ARDUINOR3_ICSP_SMT
+0
+0
 
 
 0
 38
 38
-adafruit
-AVRISP
-
-
 0
-6
-6
-adafruit
-AVRISP-BOX
+0
 
 
 0
 6
 6
-adafruit
-AWCSR
+0
+0
+
+
+0
+6
+6
+0
+0
 
 
 0
 3
 3
-adafruit
-A_3216-18R
+0
+0
 <b>Chip Capacitor Type KEMET A / EIA 3216-18 Reflow solder</b><p>
 KEMET S / EIA 3216-12
 
 0
 2
 2
-adafruit
+0
 A_3216-18W
 <b>Chip Capacitor Type KEMET A / EIA 3216-18 Wave solder</b><p>
 KEMET S / EIA 3216-12
@@ -76464,93 +76464,93 @@ adafruit
 B45181A
 <b>ELECTROLYTIC CAPACITOR</b><p>
 body 5 x 5 mm, rectangle, grid 2.54 mm
-
+0
 0
 2
 2
 adafruit
 B45181B
 <b>ELECTROLYTIC CAPACITOR</b><p>
-body 7.6 x 5 mm, rectangle, grid 5.08 mm
-
+0
+0
 0
 2
 2
 adafruit
 B45181C
-<b>ELECTROLYTIC CAPACITOR</b><p>
-body 12.7 x 7.6 mm, rectangle, grid 10.16 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-B45181D
-<b>ELECTROLYTIC CAPACITOR</b><p>
-body 12.5 x 12.5 mm, rectangle, grid 10.16 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-BEAGLEBONE_SHIELD
-
+0
+0
+0
 
 0
 92
 92
-adafruit
-BIGTAP
-
+0
+0
+0
 
 0
 1
 1
-adafruit
-BLUEFRUITLOGO_100MM
-
-
 0
 0
 0
-adafruit
-BLUEFRUITLOGO_150MM
-
 
 0
 0
 0
-adafruit
-BMP085
+0
+0
+0
 
+0
+0
+0
+0
+0
+0
 
 0
 8
 8
-adafruit
-BTN_CK_KSS
-
+0
+0
+0
 
 0
 2
 2
-adafruit
-B_3528-21R
-<b>Chip Capacitor Type KEMET B / EIA 3528-21 Reflow solder</b><p>
+0
+0
+0
 KEMET T / EIA 3528-12
 
 0
 2
 2
-adafruit
-B_3528-21W
+0
+0
 <b>Chip Capacitor Type KEMET B / EIA 3528-21 Wave solder</b><p>
 KEMET T / EIA 3528-12
 
 0
 2
 2
-adafruit
+0
 C025-024X044
 <b>CAPACITOR</b><p>
 grid 2.5 mm, outline 2.4 x 4.4 mm
@@ -76562,51 +76562,51 @@ adafruit
 C025-025X050
 <b>CAPACITOR</b><p>
 grid 2.5 mm, outline 2.5 x 5 mm
-
+0
 0
 2
 2
 adafruit
 C025-030X050
 <b>CAPACITOR</b><p>
-grid 2.5 mm, outline 3 x 5 mm
-
+0
+0
 0
 2
 2
 adafruit
 C025-040X050
-<b>CAPACITOR</b><p>
-grid 2.5 mm, outline 4 x 5 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-C025-050X050
-<b>CAPACITOR</b><p>
-grid 2.5 mm, outline 5 x 5 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-C025-060X050
-<b>CAPACITOR</b><p>
+0
+0
+0
 grid 2.5 mm, outline 6 x 5 mm
 
 0
 2
 2
-adafruit
-C025_050-024X070
+0
+0
 <b>CAPACITOR</b><p>
 grid 2.5 mm + 5 mm, outline 2.4 x 7 mm
 
 0
 3
 3
-adafruit
+0
 C025_050-025X075
 <b>CAPACITOR</b><p>
 grid 2.5 + 5 mm, outline 2.5 x 7.5 mm
@@ -76618,51 +76618,51 @@ adafruit
 C025_050-035X075
 <b>CAPACITOR</b><p>
 grid 2.5 + 5 mm, outline 3.5 x 7.5 mm
-
+0
 0
 3
 3
 adafruit
 C025_050-045X075
 <b>CAPACITOR</b><p>
-grid 2.5 + 5 mm, outline 4.5 x 7.5 mm
-
+0
+0
 0
 3
 3
 adafruit
 C025_050-055X075
-<b>CAPACITOR</b><p>
-grid 2.5 + 5 mm, outline 5.5 x 7.5 mm
-
+0
+0
+0
 0
 3
 3
 adafruit
-C050-024X044
-<b>CAPACITOR</b><p>
-grid 5 mm, outline 2.4 x 4.4 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-C050-025X075
-<b>CAPACITOR</b><p>
+0
+0
+0
 grid 5 mm, outline 2.5 x 7.5 mm
 
 0
 2
 2
-adafruit
-C050-030X075
+0
+0
 <b>CAPACITOR</b><p>
 grid 5 mm, outline 3 x 7.5 mm
 
 0
 2
 2
-adafruit
+0
 C050-035X075
 <b>CAPACITOR</b><p>
 grid 5 mm, outline 3.5 x 7.5 mm
@@ -76674,51 +76674,51 @@ adafruit
 C050-045X075
 <b>CAPACITOR</b><p>
 grid 5 mm, outline 4.5 x 7.5 mm
-
+0
 0
 2
 2
 adafruit
 C050-050X075
 <b>CAPACITOR</b><p>
-grid 5 mm, outline 5 x 7.5 mm
-
+0
+0
 0
 2
 2
 adafruit
 C050-055X075
-<b>CAPACITOR</b><p>
-grid 5 mm, outline 5.5 x 7.5 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-C050-075X075
-<b>CAPACITOR</b><p>
-grid 5 mm, outline 7.5 x 7.5 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-C050H075X075
-<b>CAPACITOR</b><p>
+0
+0
+0
 Horizontal, grid 5 mm, outline 7.5 x 7.5 mm
 
 0
 2
 2
-adafruit
-C075-032X103
+0
+0
 <b>CAPACITOR</b><p>
 grid 7.5 mm, outline 3.2 x 10.3 mm
 
 0
 2
 2
-adafruit
+0
 C075-042X103
 <b>CAPACITOR</b><p>
 grid 7.5 mm, outline 4.2 x 10.3 mm
@@ -76730,51 +76730,51 @@ adafruit
 C075-052X106
 <b>CAPACITOR</b><p>
 grid 7.5 mm, outline 5.2 x 10.6 mm
-
+0
 0
 2
 2
 adafruit
 C075-063X106
 <b>CAPACITOR</b><p>
-grid 7.5 mm, outline 6.3 x 10.6 mm
-
+0
+0
 0
 2
 2
 adafruit
 C102-043X133
-<b>CAPACITOR</b><p>
-grid 10.2 mm, outline 4.3 x 13.3 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-C102-054X133
-<b>CAPACITOR</b><p>
-grid 10.2 mm, outline 5.4 x 13.3 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-C102-064X133
-<b>CAPACITOR</b><p>
+0
+0
+0
 grid 10.2 mm, outline 6.4 x 13.3 mm
 
 0
 2
 2
-adafruit
-C102_152-062X184
+0
+0
 <b>CAPACITOR</b><p>
 grid 10.2 mm + 15.2 mm, outline 6.2 x 18.4 mm
 
 0
 3
 3
-adafruit
+0
 C150-054X183
 <b>CAPACITOR</b><p>
 grid 15 mm, outline 5.4 x 18.3 mm
@@ -76786,51 +76786,51 @@ adafruit
 C150-064X183
 <b>CAPACITOR</b><p>
 grid 15 mm, outline 6.4 x 18.3 mm
-
+0
 0
 2
 2
 adafruit
 C150-072X183
 <b>CAPACITOR</b><p>
-grid 15 mm, outline 7.2 x 18.3 mm
-
+0
+0
 0
 2
 2
 adafruit
 C150-084X183
-<b>CAPACITOR</b><p>
-grid 15 mm, outline 8.4 x 18.3 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-C150-091X182
-<b>CAPACITOR</b><p>
-grid 15 mm, outline 9.1 x 18.2 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-C225-062X268
-<b>CAPACITOR</b><p>
+0
+0
+0
 grid 22.5 mm, outline 6.2 x 26.8 mm
 
 0
 2
 2
-adafruit
-C225-074X268
+0
+0
 <b>CAPACITOR</b><p>
 grid 22.5 mm, outline 7.4 x 26.8 mm
 
 0
 2
 2
-adafruit
+0
 C225-087X268
 <b>CAPACITOR</b><p>
 grid 22.5 mm, outline 8.7 x 26.8 mm
@@ -76842,51 +76842,51 @@ adafruit
 C225-108X268
 <b>CAPACITOR</b><p>
 grid 22.5 mm, outline 10.8 x 26.8 mm
-
+0
 0
 2
 2
 adafruit
 C225-113X268
 <b>CAPACITOR</b><p>
-grid 22.5 mm, outline 11.3 x 26.8 mm
-
+0
+0
 0
 2
 2
 adafruit
 C275-093X316
-<b>CAPACITOR</b><p>
-grid 27.5 mm, outline 9.3 x 31.6 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-C275-113X316
-<b>CAPACITOR</b><p>
-grid 27.5 mm, outline 11.3 x 31.6 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-C275-134X316
-<b>CAPACITOR</b><p>
+0
+0
+0
 grid 27.5 mm, outline 13.4 x 31.6 mm
 
 0
 2
 2
-adafruit
-C275-154X316
+0
+0
 <b>CAPACITOR</b><p>
 grid 27.5 mm, outline 15.4 x 31.6 mm
 
 0
 2
 2
-adafruit
+0
 C275-173X316
 <b>CAPACITOR</b><p>
 grid 27.5 mm, outline 17.3 x 31.6 mm
@@ -76898,51 +76898,51 @@ adafruit
 C275-205X316
 <b>CAPACITOR</b><p>
 grid 27.5 mm, outline 20.5 x 31.6 mm
-
+0
 0
 2
 2
 adafruit
 C325-137X374
 <b>CAPACITOR</b><p>
-grid 32.5 mm, outline 13.7 x 37.4 mm
-
+0
+0
 0
 2
 2
 adafruit
 C325-162X374
-<b>CAPACITOR</b><p>
-grid 32.5 mm, outline 16.2 x 37.4 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-C325-182X374
-<b>CAPACITOR</b><p>
-grid 32.5 mm, outline 18.2 x 37.4 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-C375-155X418
-<b>CAPACITOR</b><p>
+0
+0
+0
 grid 37.5 mm, outline 15.5 x 41.8 mm
 
 0
 2
 2
-adafruit
-C375-192X418
+0
+0
 <b>CAPACITOR</b><p>
 grid 37.5 mm, outline 19.2 x 41.8 mm
 
 0
 2
 2
-adafruit
+0
 C375-203X418
 <b>CAPACITOR</b><p>
 grid 37.5 mm, outline 20.3 x 41.8 mm
@@ -76954,51 +76954,51 @@ adafruit
 C0402
 <b>CAPACITOR</b><p>
 chip
-
+0
 0
 2
 2
 adafruit
 C0402K
 <b>Ceramic Chip Capacitor KEMET 0204 Reflow solder</b><p>
-Metric Code Size 1005
-
+0
+0
 0
 2
 2
 adafruit
 C0504
-<b>CAPACITOR</b><p>
-chip
-
+0
+0
+0
 0
 2
 2
 adafruit
-C0603
-<b>CAPACITOR</b><p>
-chip
+0
+0
+0
 
 0
 2
 2
-adafruit
-C0603K
-<b>Ceramic Chip Capacitor KEMET 0603 Reflow solder</b><p>
+0
+0
+0
 Metric Code Size 1608
 
 0
 2
 2
-adafruit
-C0805
+0
+0
 <b>CAPACITOR</b><p>
 chip
 
 0
 2
 2
-adafruit
+0
 C0805K
 <b>Ceramic Chip Capacitor KEMET 0805 Reflow solder</b><p>
 Metric Code Size 2012
@@ -77010,51 +77010,51 @@ adafruit
 C1005
 <b>CAPACITOR</b><p>
 chip
-
+0
 0
 2
 2
 adafruit
 C1206
 <b>CAPACITOR</b><p>
-chip
-
+0
+0
 0
 2
 2
 adafruit
 C1206K
-<b>Ceramic Chip Capacitor KEMET 1206 Reflow solder</b><p>
-Metric Code Size 3216
-
+0
+0
+0
 0
 2
 2
 adafruit
-C1210
-<b>CAPACITOR</b><p>
-chip
+0
+0
+0
 
 0
 2
 2
-adafruit
-C1210K
-<b>Ceramic Chip Capacitor KEMET 1210 Reflow solder</b><p>
+0
+0
+0
 Metric Code Size 3225
 
 0
 2
 2
-adafruit
-C1310
+0
+0
 <b>CAPACITOR</b><p>
 chip
 
 0
 2
 2
-adafruit
+0
 C1608
 <b>CAPACITOR</b><p>
 chip
@@ -77066,51 +77066,51 @@ adafruit
 C1812
 <b>CAPACITOR</b><p>
 chip
-
+0
 0
 2
 2
 adafruit
 C1812K
 <b>Ceramic Chip Capacitor KEMET 1812 Reflow solder</b><p>
-Metric Code Size 4532
-
+0
+0
 0
 2
 2
 adafruit
 C1825
-<b>CAPACITOR</b><p>
+0
+0
+0
+0
+2
+2
+adafruit
+0
+0
+0
+
+0
+2
+2
+0
+0
+0
 chip
 
 0
 2
 2
-adafruit
-C1825K
-<b>Ceramic Chip Capacitor KEMET 1825 Reflow solder</b><p>
-Metric Code Size 4564
-
 0
-2
-2
-adafruit
-C2012
-<b>CAPACITOR</b><p>
-chip
-
 0
-2
-2
-adafruit
-C2220K
 <b>Ceramic Chip Capacitor KEMET 2220 Reflow solder</b><p>
 Metric Code Size 5650
 
 0
 2
 2
-adafruit
+0
 C2225K
 <b>Ceramic Chip Capacitor KEMET 2225 Reflow solder</b><p>
 Metric Code Size 5664
@@ -77122,51 +77122,51 @@ adafruit
 C3216
 <b>CAPACITOR</b><p>
 chip
-
+0
 0
 2
 2
 adafruit
 C3225
 <b>CAPACITOR</b><p>
-chip
-
+0
+0
 0
 2
 2
 adafruit
 C4111-15
-<B>DIODE</B><p>
-diameter 5.3 mm, horizontal, grid 15.24 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-C4532
-<b>CAPACITOR</b><p>
+0
+0
+0
+
+0
+2
+2
+0
+0
+0
 chip
 
 0
 2
 2
-adafruit
-C4564
-<b>CAPACITOR</b><p>
-chip
-
 0
-2
-2
-adafruit
-CB417-15
+0
 <B>DIODE</B><p>
 diameter 3.5 mm, horizontal, grid 15.24 mm
 
 0
 2
 2
-adafruit
+0
 CB429-15
 <B>DIODE</B><p>
 diameter 5 mm, horizontal, grid 15.24 mm
@@ -77178,149 +77178,149 @@ adafruit
 CB429-17
 <B>DIODE</B><p>
 diameter 5 mm, horizontal, grid 17 mm
-
+0
 0
 2
 2
 adafruit
 CERM_OSC
 
-
+0
 0
 3
 3
 adafruit
 CHIP-LED0603
 <b>Hyper CHIPLED Hyper-Bright LED</b><p>
-LB Q993<br>
-Source: http://www.osram.convergy.de/ ... Lb_q993.pdf
-
+0
+0
+0
 0
 2
 2
 adafruit
-CHIP-LED0805
-<b>Hyper CHIPLED Hyper-Bright LED</b><p>
-LB R99A<br>
+0
+0
+0
 Source: http://www.osram.convergy.de/ ... lb_r99a.pdf
 
 0
 2
 2
-adafruit
-CHIPLED-0603-TTW
+0
+0
 <b>CHIPLED-0603</b><p>
 Recommended Solder Pad useable for SmartLEDTM and Chipled - Package 0603<br>
 Package able to withstand TTW-soldering heat<br>
 Package suitable for TTW-soldering<br>
-Source: http://www.osram.convergy.de/ ... LO_LS_LY L89K.pdf
-
+0
+0
 0
 4
 4
 adafruit
 CHIPLED_0603
-<b>CHIPLED</b><p>
-Source: http://www.osram.convergy.de/ ... LG_LY Q971.pdf
-
+0
+0
+0
 0
 2
 2
 adafruit
-CHIPLED_0805
-<b>CHIPLED</b><p>
-Source: http://www.osram.convergy.de/ ... LG_R971.pdf
+0
+0
+0
 
 0
 2
 2
-adafruit
-CHIPLED_1206
-<b>CHIPLED</b><p>
+0
+0
+0
 Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf
 
 0
 2
 2
-adafruit
-CP-2350
+0
+0
 Female <b>CONNECTOR</b><p>
 5 pins 90 deg. with shield, horizontal (DIN 41524)
 
 0
 9
 9
-adafruit
+0
 CQFP-44
 <b>CERAMIC QUAD FLAT PACK</b>
 
 0
 44
 44
-adafruit
+0
 CR1220-SMD
 
 
 0
 3
 3
-adafruit
+0
 CR1220-THM
 
 
 0
 3
 3
-adafruit
+0
 CR2032-SMD
 
 
 0
 3
 3
-adafruit
+0
 CR2032-THRU
 
 
 0
 3
 3
-adafruit
+0
 CSTCR-G
 
 
 0
 3
 3
-adafruit
+0
 CT3216
 <b>CAPACITOR</b><p>
 chip
 tantalum
-
+0
 0
 2
 2
 adafruit
 CT3528
 <b>CAPACITOR</b><p>
-chip
+0
+0
+0
+0
+2
+2
+adafruit
+0
+0
+0
 tantalum
 
 0
 2
 2
-adafruit
-CT6032
-<b>CAPACITOR</b><p>
-chip
-tantalum
-
 0
-2
-2
-adafruit
-CT7343
+0
 <b>CAPACITOR</b><p>
 chip
 tantalum
@@ -77332,100 +77332,100 @@ adafruit
 CTS406
 <b>Model 406 6.0x3.5mm Low Cost Surface Mount Crystal</b><p>
 Source: 008-0260-0_E.pdf
-
+0
 0
 4
 4
 adafruit
 C_6032-28R
 <b>Chip Capacitor Type KEMET C / EIA 6032-28 Reflow solder</b><p>
-KEMET U / EIA 6032-15
-
+0
+0
 0
 2
 2
 adafruit
 C_6032-28W
-<b>Chip Capacitor Type KEMET C / EIA 6032-28 Wafe solder</b><p>
-KEMET U / EIA 6032-15
-
+0
+0
+0
 0
 2
 2
 adafruit
-DCJACK_2MM_PTH
-DJ Jack 2.0mm PTH Right-Angle
-
+0
+0
+0
 0
 3
 3
 adafruit
-DCJACK_2MM_SMT
-2.0/2.1mm DC Jack - SMT
-<p>4UConnector: 03267</p>
+0
+2
+0
 <p>Note: Small tRestrict polygon's were added to the ground pads to improve solderability when this part is used in combination with a ground pour.  By default, Eagle will product four large bridges to the ground pour significantly increasing the heat distribution on the pads and preventing lead-free solder from reflowing in certain situations.  For more details, see: http://www.microbuilder.eu/Blog/09-12-14/Reducing_Thermals_for_Large_Pads_in_Eagle.aspx</p>
 
 0
 4
 4
-adafruit
-DFN-6
+0
+0
 
 
 0
 7
 7
-adafruit
-DIL08
+0
+0
 <b>Dual In Line Package</b>
 
 0
 8
 8
-adafruit
-DIL08-ROUND
+0
+0
 <b>Dual In Line Package</b>
 
 0
 8
 8
-adafruit
-DIL14
+0
+0
 <b>Dual In Line Package</b>
 
 0
 14
 14
-adafruit
-DIL14-LARDO
+0
+0
 
 
 0
 14
 14
-adafruit
-DIL16
+0
+0
 <b>Dual In Line Package</b>
 
 0
 16
 16
-adafruit
-DIL18
+0
+0
 <B>Dual In Line</B><p>
 package type P
 
 0
 18
 18
-adafruit
+0
 DIL20
 <b>Dual In Line Package</b>
 
 0
 20
 20
-adafruit
+0
 DIL28-3
 <B>Dual In Line</B><p>
 package type P
@@ -77458,58 +77458,58 @@ adafruit
 DO13M
 <B>DIODE</B><p>
 diameter 6.35 mm metall, horizontal, grid 20.32 mm
-
+0
 0
 2
 2
 adafruit
 DO35-7
 <B>DIODE</B><p>
-diameter 2 mm, horizontal, grid 7.62 mm
-
+0
+0
 0
 2
 2
 adafruit
 DO35-10
-<B>DIODE</B><p>
-diameter 2 mm, horizontal, grid 10.16 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-DO41-7
-
-
+0
+0
+0
 0
 2
 2
 adafruit
-DO41-10
-<B>DIODE</B><p>
-diameter 2.54 mm, horizontal, grid 10.16 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-DO201T15
-<B>DIODE</B><p>
+0
+0
+0
 diameter 5.6 mm, horizontal, grid 15.24 mm
 
 0
 2
 2
-adafruit
-D_7343-31R
+0
+0
 <b>Chip Capacitor Type KEMET D / EIA 7343-21</b><p>
 KEMET V / EIA 7343-20, KEMET X / EIA 7343-43 Reflow solder
 
 0
 2
 2
-adafruit
+0
 D_7343-31W
 <b>Chip Capacitor Type KEMET D / EIA 7343-21</b><p>
 KEMET V / EIA 7343-20, KEMET X / EIA 7343-43 Wafe solder
@@ -77521,51 +77521,51 @@ adafruit
 E1,8-4
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 1.8 mm, diameter 4 mm
-
+0
 0
 2
 2
 adafruit
 E2,5-4R
 <b>ELECTROLYTIC CAPACITOR</b><p>
-grid 2.54 mm, diameter 4 mm
-
+0
+0
 0
 2
 2
 adafruit
 E2,5-5
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 2.54 mm, diameter 5 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-E2,5-6
-<b>ELECTROLYTIC CAPACITOR</b><p>
+0
+0
+0
+
+0
+2
+2
+0
+0
+0
 grid 2.54 mm, diameter 6 mm
 
 0
 2
 2
-adafruit
-E2,5-6E
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 2.54 mm, diameter 6 mm
-
 0
-2
-2
-adafruit
-E2,5-7
+0
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 2.54 mm, diameter 7 mm
 
 0
 2
 2
-adafruit
+0
 E2,5RE
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 2.54 mm, diameter 4 mm,
@@ -77577,51 +77577,51 @@ adafruit
 E2-4
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 2 mm, diameter 4 mm
-
+0
 0
 2
 2
 adafruit
 E2-5
 <b>ELECTROLYTIC CAPACITOR</b><p>
-grid 2.032 mm, diameter 5 mm
-
+0
+0
 0
 2
 2
 adafruit
 E3,5-8
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 3.5 mm, diameter 8 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-E3,5-10
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 3.5 mm, diameter 10 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-E5-4
-<b>ELECTROLYTIC CAPACITOR</b><p>
+0
+0
+0
 grid 5.05 mm, diameter 4 mm
 
 0
 2
 2
-adafruit
-E5-5
+0
+0
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 5.08 mm, diameter 5 mm
 
 0
 2
 2
-adafruit
+0
 E5-6
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 5.08 mm, diameter 6 mm
@@ -77633,51 +77633,51 @@ adafruit
 E5-8,5
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 5.08 mm, diameter 8.5 mm
-
+0
 0
 2
 2
 adafruit
 E5-10,5
 <b>ELECTROLYTIC CAPACITOR</b><p>
-grid 5.08 mm, diameter 10.5 mm
-
+0
+0
 0
 2
 2
 adafruit
 E5-13
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 5.08 mm, diameter 13 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-E5R
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 5.08 mm, diameter 9 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-E7,5-16
-<b>ELECTROLYTIC CAPACITOR</b><p>
+0
+0
+0
 grid 7.62 mm, diameter 16 mm
 
 0
 2
 2
-adafruit
-E7,5-18
+0
+0
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 7.62 mm, diameter 18 mm
 
 0
 2
 2
-adafruit
+0
 E15-5
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 15.24 mm, diameter 5 mm
@@ -77689,51 +77689,51 @@ adafruit
 E15-6
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 15.24 mm, diameter 6 mm
-
+0
 0
 2
 2
 adafruit
 E15-9
 <b>ELECTROLYTIC CAPACITOR</b><p>
-grid 15.24 mm, diameter 9 mm
-
+0
+0
 0
 2
 2
 adafruit
 E22-6
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 22.86 mm, diameter 6 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-E22-9
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 22.86 mm, diameter 9 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-E22-10
-<b>ELECTROLYTIC CAPACITOR</b><p>
+0
+0
+0
 grid 22.86 mm, diameter 10 mm
 
 0
 2
 2
-adafruit
-E25-9
+0
+0
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 25.4 mm, diameter 9 mm
 
 0
 2
 2
-adafruit
+0
 E25-10
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 25.4 mm, diameter 10 mm
@@ -77745,51 +77745,51 @@ adafruit
 E30-10
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 30.48 mm, diameter 10 mm
-
+0
 0
 2
 2
 adafruit
 E30-12
 <b>ELECTROLYTIC CAPACITOR</b><p>
-grid 30.48 mm, diameter 12 mm
-
+0
+0
 0
 2
 2
 adafruit
 E30-16
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 30.48 mm, diameter 16 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-E35-12
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 35.56 mm, diameter 12 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-E35-14
-<b>ELECTROLYTIC CAPACITOR</b><p>
+0
+0
+0
 grid 30.48 mm, diameter 14 mm
 
 0
 2
 2
-adafruit
-E35-16
+0
+0
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 30.48 mm, diameter 16 mm
 
 0
 2
 2
-adafruit
+0
 E35-18
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 30.48 mm, diameter 18 mm
@@ -77801,51 +77801,51 @@ adafruit
 E45-16
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 45.72 mm, diameter 16 mm
-
+0
 0
 2
 2
 adafruit
 E45-18
 <b>ELECTROLYTIC CAPACITOR</b><p>
-grid 45.72 mm, diameter 18 mm
-
+0
+0
 0
 2
 2
 adafruit
 E45-21
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 45.72 mm, diameter 21 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-E45-22
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 45.72 mm, diameter 22 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-E45-25
-<b>ELECTROLYTIC CAPACITOR</b><p>
+0
+0
+0
 grid 45.72 mm, diameter 25 mm
 
 0
 2
 2
-adafruit
-E50-25
+0
+0
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 50 mm, diameter 25 mm
 
 0
 2
 2
-adafruit
+0
 E50-30
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 50 mm, diameter 30 mm
@@ -77857,51 +77857,51 @@ adafruit
 E55-25
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 55 mm, diameter 25 mm
-
+0
 0
 2
 2
 adafruit
 E55-30
 <b>ELECTROLYTIC CAPACITOR</b><p>
-grid 55 mm, diameter 30 mm
-
+0
+0
 0
 2
 2
 adafruit
 EB20D
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 10.16 mm, diameter 20 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-EB22,5D
-<b>ELECTROLYTIC CAPACITOR</b><p>
-grid 10.16 mm, diameter 22.5 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-EB25D
-<b>ELECTROLYTIC CAPACITOR</b><p>
+0
+0
+0
 grid 10.16 mm, diameter 25 mm
 
 0
 2
 2
-adafruit
-EB30D
+0
+0
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 10.16 mm, diameter 30 mm
 
 0
 2
 2
-adafruit
+0
 EB35D
 <b>ELECTROLYTIC CAPACITOR</b><p>
 grid 10.16 mm, diameter 35 mm
@@ -77941,289 +77941,289 @@ adafruit
 ETR1
 <b>ELECTROLYTIC CAPACITOR</b><p>
 rectangle, grid 2.54 mm
-
+0
 0
 2
 2
 adafruit
 ETR2
 <b>ELECTROLYTIC CAPACITOR</b><p>
-rectangle, grid 5.08 mm
-
+0
+0
 0
 2
 2
 adafruit
 ETR3
-<b>ELECTROLYTIC CAPACITOR</b><p>
-rectangle, grid 5.08 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-ETR4
-<b>ELECTROLYTIC CAPACITOR</b><p>
+0
+0
+0
+
+0
+2
+2
+0
+0
+0
 rectangle, grid 10.16 mm
 
 0
 2
 2
-adafruit
-ETR5
-<b>ELECTROLYTIC CAPACITOR</b><p>
-rectangle, grid 10.16 mm
-
 0
-2
-2
-adafruit
-EVQ-Q2
+0
 
 
 0
 4
 4
-adafruit
-EVQQ7GA50
+0
+0
 
 
 0
 10
 10
-adafruit
-E_7260-38R
+0
+0
 <b>Chip Capacitor Type KEMET E / EIA 7260-38 Reflow solder</b>
 
 0
 2
 2
-adafruit
-E_7260-38W
+0
+0
 <b>Chip Capacitor Type KEMET E / EIA 7260-38 Wafe solder</b>
 
 0
 2
 2
-adafruit
-F15D
+0
+0
 <b>SUB-D</b>
 
 0
 15
 15
-adafruit
-F15H
+0
+0
 <b>SUB-D</b>
 
 0
 15
 15
-adafruit
-F15HP
-<b>SUB-D</b>
-
 0
-17
-17
-adafruit
-F15V
-<b>SUB-D</b>
-
 0
-15
-15
-adafruit
-F15VB
-<b>SUB-D</b>
-
-0
-15
-15
-adafruit
-F15VP
 <b>SUB-D</b>
 
 0
 17
 17
-adafruit
-F126Z12
+0
+0
+<b>SUB-D</b>
+
+0
+15
+15
+0
+0
+<b>SUB-D</b>
+
+0
+15
+15
+0
+0
+<b>SUB-D</b>
+
+0
+17
+17
+0
+0
 <B>DIODE</B><p>
 diameter 3 mm, horizontal, grid 12.7 mm
 
 0
 2
 2
-adafruit
+0
 FB
 
 
 0
 2
 2
-adafruit
+0
 FEATHERWING
 
 
 0
 30
 30
-adafruit
+0
 FEATHERWING_DIM
 
 
 0
 30
 30
-adafruit
+0
 FGPMMOPA6B
 
 
 0
 12
 12
-adafruit
+0
 FGPMMOPA6C
 
 
 0
 13
 13
-adafruit
+0
 FGPMMOPA6H
 
 
 0
 20
 20
-adafruit
+0
 FIDUCIAL_1MM
 
 
 0
 1
 1
-adafruit
+0
 FPC_0.5MM-4
 
 
 0
 6
 6
-adafruit
+0
 HC13U-H
 <b>CRYSTAL</b>
 
 0
 4
 4
-adafruit
+0
 HC18U-H
 <b>CRYSTAL</b>
 
 0
 4
 4
-adafruit
+0
 HC18U-V
 <b>CRYSTAL</b>
 
 0
 2
 2
-adafruit
+0
 HC33U-H
 <b>CRYSTAL</b>
 
 0
 4
 4
-adafruit
+0
 HC33U-V
 <b>CRYSTAL</b>
 
 0
 2
 2
-adafruit
+0
 HC49GW
 <b>CRYSTAL</b>
 
 0
 3
 3
-adafruit
+0
 HC49TL-H
 <b>CRYSTAL</b>
 
 0
 3
 3
-adafruit
+0
 HC49U-H
 <b>CRYSTAL</b>
 
 0
 2
 2
-adafruit
+0
 HC49U-LM
 <b>CRYSTAL</b>
 
 0
 4
 4
-adafruit
+0
 HC49U-V
 <b>CRYSTAL</b>
 
 0
 2
 2
-adafruit
+0
 HC49U70
 <b>CRYSTAL</b>
 
 0
 2
 2
-adafruit
+0
 HC49UP
 <b>CRYSTAL</b>
 
 0
 2
 2
-adafruit
+0
 HC49_S
 <b>CRYSTAL</b>
 
 0
 2
 2
-adafruit
+0
 HDF15H
 <b>SUB-D</b>
 
 0
 17
 17
-adafruit
+0
 HDF15V
 <b>SUB-D</b>
 
 0
 15
 15
-adafruit
+0
 HTSSOP20DAP
 
 
 0
 21
 21
-adafruit
+0
 HTSSOP32DAP
 <b>PowerPAD(TM) PLASTIC SMALL-OUTLINE PACKAGE</b> DAP (R-PDSO-G**)<p>
 Source: http://focus.ti.com/lit/ml/mpds029b/mpds029b.pdf / slma002.pdf
@@ -78249,135 +78249,135 @@ adafruit
 IRL80A
 <B>IR LED</B><p>
 IR transmitter Siemens
-
+0
 0
 2
 2
 adafruit
 IV18
 
-
+0
 0
 22
 22
 adafruit
 JD-T1800
 
-
+0
 0
 14
 14
 adafruit
 JOYSTICK
 
-
+0
 0
 14
 14
 adafruit
 JST-6POS
 
-
+0
 0
 10
 10
 adafruit
 JST-8POS
 
-
+0
 0
 12
 12
 adafruit
 JST-PH-2-SMT
 
-
+0
 0
 4
 4
 adafruit
 JST-PH-2-SMT-RA
 2-Pin JST PH Series Right-Angle Connector (+/- for batteries)
-
+0
 0
 4
 4
 adafruit
 JST-PH-2-THM
 4UCon #01528
-http://www.4uconnector.com/online/object/4udrawing/01528.pdf
-
+0
+0
 0
 2
 2
 adafruit
 JST-PH-2-THM-RA
-<b>S2B-PH-K-S</b> 
-<p>
-JST PH 2-pin thru-home side entry
+0
+0
+0
 
 0
 2
 2
-adafruit
-JSTPH3
-
+0
+0
+0
 
 0
 5
 5
-adafruit
-JUDCOSPST
-
+0
+0
+0
 
 0
 2
 2
-adafruit
-KMR2
-
+0
+0
+0
 
 0
 4
 4
-adafruit
-LCC20
-<b>Leadless Chip Carrier</b><p> Ceramic Package
+0
+0
+0
 
 0
 20
 20
-adafruit
-LCD1602
-
+0
+0
+0
 
 0
 16
 16
-adafruit
-LCD1602-RGB
-
+0
+0
+0
 
 0
 18
 18
-adafruit
-LD260
-<B>LED</B><p>
+0
+0
+0
 5 mm, square, Siemens
 
 0
 2
 2
-adafruit
-LED2X5
+0
+0
 <B>LED</B><p>
 2 x 5 mm, rectangle
 
 0
 2
 2
-adafruit
+0
 LED3MM
 <B>LED</B><p>
 3 mm, round
@@ -78389,72 +78389,72 @@ adafruit
 LED5MM
 <B>LED</B><p>
 5 mm, round
-
+0
 0
 2
 2
 adafruit
 LED5MMRGB
 
-
+0
 0
 4
 4
 adafruit
 LED3535
 
-
+0
 0
 4
 4
 adafruit
 LQH55
 
-
+0
 0
 2
 2
 adafruit
 LSU260
 <B>LED</B><p>
-1 mm, round, Siemens
-
+1
+0
 0
 2
 2
 adafruit
 LZR181
-<B>LED BLOCK</B><p>
-1 LED, Siemens
-
+0
+1
+0
 0
 2
 2
 adafruit
-M0805
-<b>RESISTOR</b><p>
-MELF 0.10 W
+0
+0
+0
 
 0
 2
 2
-adafruit
-M1206
-<b>RESISTOR</b><p>
+0
+0
+0
 MELF 0.25 W
 
 0
 2
 2
-adafruit
-M1406
+0
+0
 <b>RESISTOR</b><p>
 MELF 0.12 W
 
 0
 2
 2
-adafruit
+0
 M2012
 <b>RESISTOR</b><p>
 MELF 0.10 W
@@ -78466,44 +78466,44 @@ adafruit
 M2309
 <b>RESISTOR</b><p>
 MELF 0.25 W
-
+0
 0
 2
 2
 adafruit
 M3216
 <b>RESISTOR</b><p>
-MELF 0.25 W
-
+0
+0
 0
 2
 2
 adafruit
 M3516
-<b>RESISTOR</b><p>
-MELF 0.12 W
-
+0
+0
+0
 0
 2
 2
 adafruit
-M5923
-<b>RESISTOR</b><p>
-MELF 0.25 W
+0
+0
+0
 
 0
 2
 2
-adafruit
-MC14093B-TSSOP14
-<b>plastic thin shrink small outline package; 14 leads; body width 4.4 mm </b><p>
+0
+0
+0
 SOT402-1<br>
 Source: http://www.onsemi.com/pub_link/Collateral/MC14093B-D.PDF
 
 0
 14
 14
-adafruit
+0
 MICRO-SIDELED
 <b>Hyper Micro SIDELED®</b><p>
 Source: http://www.osram.convergy.de/ ... LA_LO_LS_LY Y876.pdf
@@ -78522,58 +78522,58 @@ adafruit
 MINI-TOPLED-SANTANA
 <b>Mini TOPLED Santana®</b><p>
 Source: http://www.osram.convergy.de/ ... LG M470.pdf
-
+0
 0
 2
 2
 adafruit
 MINI_MELF-0102AX
 <b>Mini MELF 0102 Axial</b>
-
+0
 0
 2
 2
 adafruit
 MINI_MELF-0102R
 <b>CECC Size RC2211</b> Reflow Soldering<p>
-source Beyschlag
-
+0
+0
 0
 2
 2
 adafruit
 MINI_MELF-0102W
-<b>CECC Size RC2211</b> Wave Soldering<p>
+0
+0
+0
+0
+2
+2
+adafruit
+0
+0
+0
+
+0
+2
+2
+0
+0
+0
 source Beyschlag
 
 0
 2
 2
-adafruit
-MINI_MELF-0204R
-<b>CECC Size RC3715</b> Reflow Soldering<p>
-source Beyschlag
-
 0
-2
-2
-adafruit
-MINI_MELF-0204W
-<b>CECC Size RC3715</b> Wave Soldering<p>
-source Beyschlag
-
 0
-2
-2
-adafruit
-MINI_MELF-0207R
 <b>CECC Size RC6123</b> Reflow Soldering<p>
 source Beyschlag
 
 0
 2
 2
-adafruit
+0
 MINI_MELF-0207W
 <b>CECC Size RC6123</b> Wave Soldering<p>
 source Beyschlag
@@ -78585,128 +78585,128 @@ adafruit
 MLF32
 <b>32M1-A</b> Micro Lead Frame package (MLF)<p>
 Source: http://www.atmel.com .. doc1477.pdf
-
+0
 0
 32
 32
 adafruit
 MM20SS
 <b>CRYSTAL</b>
-
+0
 0
 4
 4
 adafruit
 MM39SL
 <b>CRYSTAL</b>
-
+0
 0
 4
 4
 adafruit
 MOLEX_480371000
 
-
+0
 0
 6
 6
 adafruit
 MOON
 
-
+0
 0
 0
 0
 adafruit
 MSOP10
 10-Lead Mini Small Outline Package [MSOP]
-
+0
 0
 10
 10
 adafruit
 NX3225
 
-
+0
 0
 4
 4
 adafruit
 NX5032
 
-
+0
 0
 2
 2
 adafruit
 NX8045
 
-
+0
 0
 2
 2
 adafruit
 OS102011MA1Q
 
-
+0
 0
 5
 5
 adafruit
 OSHWLOGO_0.3
 
-
+0
 0
 0
 0
 adafruit
 OSHWLOGO_TOL_0.2
 
-
+0
 0
 0
 0
 adafruit
 OSHWLOGO_TOP_0.2
 
-
+0
 0
 0
 0
 adafruit
 OSRAM-MINI-TOP-LED
 <b>BLUE LINETM Hyper Mini TOPLED® Hyper-Bright LED</b><p>
-Source: http://www.osram.convergy.de/ ... LB M676.pdf
-
+0
+0
 0
 2
 2
 adafruit
 OSRAM-SIDELED
-<b>Super SIDELED® High-Current LED</b><p>
-LG A672, LP A672 <br>
-Source: http://www.osram.convergy.de/ ... LG_LP_A672.pdf (2004.05.13)
+0
+0
+0
 
 0
 2
 2
-adafruit
-P-LCC-2
-<b>TOPLED® High-optical Power LED (HOP)</b><p>
+0
+0
+0
 Source: http://www.osram.convergy.de/ ... ls_t675.pdf
 
 0
 2
 2
-adafruit
-P-LCC-2-TOPLED-RG
+0
+0
 <b>Hyper TOPLED® RG Hyper-Bright LED</b><p>
 Source: http://www.osram.convergy.de/ ... LA_LO_LS_LY T776.pdf
 
 0
 2
 2
-adafruit
+0
 P-LCC-4
 <b>Power TOPLED®</b><p>
 Source: http://www.osram.convergy.de/ ... LA_LO_LA_LY E67B.pdf
@@ -78718,198 +78718,198 @@ adafruit
 P6T15
 <B>DIODE</B><p>
 diameter 9 mm, horizontal, grid 15.24 mm
-
+0
 0
 2
 2
 adafruit
 P128-35
 <b>ELECTROLYTIC CAPACITOR</b><p>
-
+0
 0
 2
 2
 adafruit
 P128-40
 <b>ELECTROLYTIC CAPACITOR</b><p>
-
+0
 0
 2
 2
 adafruit
 P128-50
 <b>ELECTROLYTIC CAPACITOR</b><p>
-
+0
 0
 2
 2
 adafruit
 P128-60
 <b>ELECTROLYTIC CAPACITOR</b><p>
-
+0
 0
 2
 2
 adafruit
 P0613V
 <b>RESISTOR</b><p>
-type 0613, grid 5 mm
-
+0
+0
 0
 2
 2
 adafruit
 P0613_15
-<b>RESISTOR</b><p>
-type 0613, grid 15 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-P0817V
-<b>RESISTOR</b><p>
-type 0817, grid 6.35 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-P0817_22
-<b>RESISTOR</b><p>
+0
+0
+0
 type 0817, grid 22.5 mm
 
 0
 2
 2
-adafruit
-PANASONIC_A
+0
+0
 <b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package A</b>
 
 0
 2
 2
-adafruit
-PANASONIC_B
+0
+0
 <b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package B</b>
 
 0
 2
 2
-adafruit
-PANASONIC_C
+0
+0
 <b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package C</b>
 
 0
 2
 2
-adafruit
-PANASONIC_D
+0
+0
 <b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package D</b>
 
 0
 2
 2
-adafruit
-PANASONIC_E
+0
+0
 <b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package E</b>
 
 0
 2
 2
-adafruit
-PANASONIC_F
+0
+0
 <b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package F</b>
 
 0
 2
 2
-adafruit
-PANASONIC_G
+0
+0
 <b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package G</b>
 
 0
 2
 2
-adafruit
-PIRANHA5MM
+0
+0
 
 
 0
 4
 4
-adafruit
-PJ-102A
+0
+0
 
 
 0
 3
 3
-adafruit
-PLCC-S28
+0
+0
 <b>Plastic Leaded Chip Carrier</b> Socked
 
 0
 28
 28
-adafruit
-PNA460XM
+0
+0
 
 
 0
 3
 3
-adafruit
-PROPCLIP
+0
+0
 
 
 0
 8
 8
-adafruit
-PROPPLUG
+0
+0
 
 
 0
 4
 4
-adafruit
-PROTRINKET
+0
+0
 
 
 0
 26
 26
-adafruit
-PS12
+0
+0
 
 
 0
 2
 2
-adafruit
-PS603
+0
+0
 
 
 0
 2
 2
-adafruit
-PUSHBUTTON_SMD_SJ
+0
+0
 
 
 0
 2
 2
-adafruit
-Q62902-B152
+0
+0
 <b>LED HOLDER</b><p>
 Siemens
 
 0
 2
 2
-adafruit
+0
 Q62902-B153
 <b>LED HOLDER</b><p>
 Siemens
@@ -78921,58 +78921,58 @@ adafruit
 Q62902-B155
 <b>LED HOLDER</b><p>
 Siemens
-
+0
 0
 2
 2
 adafruit
 Q62902-B156
 <b>LED HOLDER</b><p>
-Siemens
-
+0
+0
 0
 2
 2
 adafruit
 QFN20
-
-
+0
+0
 0
 20
 20
 adafruit
 QFN28-ML_6X6MM
-<b>QFN28-ML_6X6MM</b><p>
-Source: http://www.microchip.com .. 39637a.pdf
-
+0
+0
+0
 0
 29
 29
 adafruit
-R0402
+0
+0
+0
+
+0
+2
+2
+0
+0
+0
+chip
+
+0
+2
+2
+0
+0
 <b>RESISTOR</b><p>
 chip
 
 0
 2
 2
-adafruit
-R0603
-<b>RESISTOR</b><p>
-chip
-
 0
-2
-2
-adafruit
-R0805
-<b>RESISTOR</b><p>
-chip
-
-0
-2
-2
-adafruit
 R0805W
 <b>RESISTOR</b><p>
 chip, wave soldering
@@ -78984,51 +78984,51 @@ adafruit
 R1005
 <b>RESISTOR</b><p>
 chip
-
+0
 0
 2
 2
 adafruit
 R1206
 <b>RESISTOR</b><p>
-chip
-
+0
+0
 0
 2
 2
 adafruit
 R1206W
-<b>RESISTOR</b><p>
+0
+0
+0
+0
+2
+2
+adafruit
+0
+0
+0
+
+0
+2
+2
+0
+0
+0
 chip, wave soldering
 
 0
 2
 2
-adafruit
-R1210
+0
+0
 <b>RESISTOR</b><p>
 chip
 
 0
 2
 2
-adafruit
-R1210W
-<b>RESISTOR</b><p>
-chip, wave soldering
-
 0
-2
-2
-adafruit
-R2010
-<b>RESISTOR</b><p>
-chip
-
-0
-2
-2
-adafruit
 R2010W
 <b>RESISTOR</b><p>
 chip, wave soldering
@@ -79040,51 +79040,51 @@ adafruit
 R2012
 <b>RESISTOR</b><p>
 chip
-
+0
 0
 2
 2
 adafruit
 R2012W
 <b>RESISTOR</b><p>
-chip, wave soldering
-
+0
+0
 0
 2
 2
 adafruit
 R2512
-<b>RESISTOR</b><p>
+0
+0
+0
+0
+2
+2
+adafruit
+0
+0
+0
+
+0
+2
+2
+0
+0
+0
 chip
 
 0
 2
 2
-adafruit
-R2512W
+0
+0
 <b>RESISTOR</b><p>
 chip, wave soldering
 
 0
 2
 2
-adafruit
-R3216
-<b>RESISTOR</b><p>
-chip
-
 0
-2
-2
-adafruit
-R3216W
-<b>RESISTOR</b><p>
-chip, wave soldering
-
-0
-2
-2
-adafruit
 R3225
 <b>RESISTOR</b><p>
 chip
@@ -79096,191 +79096,191 @@ adafruit
 R3225W
 <b>RESISTOR</b><p>
 chip, wave soldering
-
+0
 0
 2
 2
 adafruit
 R5025
 <b>RESISTOR</b><p>
-chip
-
+0
+0
 0
 2
 2
 adafruit
 R5025W
-<b>RESISTOR</b><p>
+0
+0
+0
+0
+2
+2
+adafruit
+0
+0
+0
+
+0
+2
+2
+0
+0
+0
 chip, wave soldering
 
 0
 2
 2
-adafruit
-R6332
-<b>RESISTOR</b><p>
-chip
-
 0
-2
-2
-adafruit
-R6332W
-<b>RESISTOR</b><p>
-chip, wave soldering
-
 0
-2
-2
-adafruit
-RDH_15
 <b>RESISTOR</b><p>
 type RDH, grid 15 mm
 
 0
 2
 2
-adafruit
+0
 RGBLED5050
 
 
 0
 6
 6
-adafruit
+0
 RK0971221
 
 
 0
 8
 8
-adafruit
+0
 RN-171
 
 
 0
 49
 49
-adafruit
+0
 RN-ANT
 
 
 0
 2
 2
-adafruit
+0
 R_2012-12R
 <b>Chip Capacitor Type KEMET R/EIA 2012-12 Reflow solder</b>
 
 0
 2
 2
-adafruit
+0
 R_2012-12W
 <b>Chip Capacitor Type KEMET R/EIA 2012-12 Wafe solder</b>
 
 0
 2
 2
-adafruit
+0
 SCDA
 
 
 0
 13
 13
-adafruit
+0
 SDCARD
 
 
 0
 15
 15
-adafruit
+0
 SEGMENT_BICOL_BL-AR12Z3010
 <b>Souce: </b>http://www.betlux.com/product/LED_light_bar/BL-AR12B3010xx.PDF
 
 0
 14
 14
-adafruit
+0
 SEGMENT_BICOL_BL-M12A883XX
 <b>Source: </b>http://www.betlux.com/product/led_dot_matrix/BL-M12A883xx.PDF
 
 0
 24
 24
-adafruit
+0
 SEGMENT_BL-M07C881UR
 
 
 0
 16
 16
-adafruit
+0
 SEGMENT_BL-M12A881UR
 <b>Source:</b> http://www.betlux.com/product/LED_dot_matrix/BL-M12A881.PDF
 
 0
 16
 16
-adafruit
+0
 SEGMENT_BL-M12A883
 <b>Source:</b> http://www.betlux.com/product/LED_dot_matrix/BL-M12A883.PDF
 
 0
 16
 16
-adafruit
+0
 SEGMENT_BL-M15A881
 
 
 0
 16
 16
-adafruit
+0
 SEWINGTAP_0.4
 
 
 0
 1
 1
-adafruit
+0
 SEWINGTAP_0.5
 
 
 0
 1
 1
-adafruit
+0
 SEWINGTAP_2.0
 
 
 0
 1
 1
-adafruit
+0
 SFH480
 <B>IR LED</B><p>
 infrared emitting diode, Infineon
 TO-18, lead spacing 2.54 mm, cathode marking<p>
-Inifineon
-
+0
+0
 0
 2
 2
 adafruit
 SFH482
-<B>IR LED</B><p>
-infrared emitting diode, Infineon
-TO-18, lead spacing 2.54 mm, cathode marking<p>
+0
+0
+0
 Inifineon
 
 0
 2
 2
-adafruit
-SFV4R-1STE1LF
+0
+0
 <b>FPC Connector ZIF for SMT 0.5mm</b><p>
 
 FCI SFV4R-1STE1LF
@@ -79334,79 +79334,79 @@ adafruit
 SMART-LED
 <b>SmartLEDTM Hyper-Bright LED</b><p>
 Source: http://www.osram.convergy.de/ ... LA_LO_LS_LY L896.pdf
-
+0
 0
 2
 2
 adafruit
 SMARTLED-TTW
 <b>SmartLED TTW</b><p>
-Recommended Solder Pad useable for SmartLEDTM and Chipled - Package 0603<br>
-Package able to withstand TTW-soldering heat<br>
-Package suitable for TTW-soldering<br>
+0
+0
+0
 Source: http://www.osram.convergy.de/ ... LO_LS_LY L89K.pdf
 
 0
 4
 4
-adafruit
-SMA_EDGELAUNCH
+0
+0
 
 
 0
 5
 5
-adafruit
-SMA_EDGELAUNCH_UFL
+0
+0
 
 
 0
 5
 5
-adafruit
-SMLK34
+0
+0
 
 
 0
 2
 2
-adafruit
-SMT-0540-S-R
+0
+0
 
 
 0
 3
 3
-adafruit
-SO08
+0
+0
 
 
 0
 8
 8
-adafruit
-SO08-SKINNYPADS
+0
+0
 
 
 0
 8
 8
-adafruit
-SO14
+0
+0
 <b>Small Outline package</b> 150 mil
 
 0
 14
 14
-adafruit
-SO16
+0
+0
 <b>SMALL OUTLINE INTEGRATED CIRCUIT</b><p>
 body 3.9 mm/JEDEC MS-012AC
 
 0
 16
 16
-adafruit
+0
 SO16W
 <b>SMALL OUTLINE INTEGRATED CIRCUIT</b><p>
 wide body 7.5 mm/JEDEC MS-013AA
@@ -79432,135 +79432,135 @@ adafruit
 SO28W
 <B>28-Lead Plastic Small Outline (SO) </B> Wide, 300 mil Body (SOIC)</B><p>
 Source: http://ww1.microchip.com/downloads/en/devicedoc/39632c.pdf
-
+0
 0
 28
 28
 adafruit
 SOD-123
 
-
+0
 0
 2
 2
 adafruit
 SOD-123FL
 
-
+0
 0
 2
 2
 adafruit
 SOD-323
 <b>SOD323</b> (2.5x1.2mm)
-
+0
 0
 2
 2
 adafruit
 SOD-323F
 
-
+0
 0
 2
 2
 adafruit
 SOD-523
 SOD-523 (0.8x1.2mm)
-
-<p>Source: http://www.rohm.com/products/databook/di/pdf/rb751s-40.pdf</p>
-
+0
+0
+0
 0
 2
 2
 adafruit
-SOIC8_208MIL
-<b>Small Outline IC - 208mil Wide</b>
-
+0
+0
+0
 0
 8
 8
 adafruit
-SOP24
-<b>SMALL OUTLINE PACKAGE</b>
-
+0
+0
+0
 0
 24
 24
 adafruit
-SOT23
-<b>SOT-23</b>
-
+0
+0
+0
 0
 3
 3
 adafruit
-SOT23-5L
-<b>Small Outline Transistor</b><p>
-package type OT
+0
+0
+0
 
 0
 5
 5
-adafruit
-SOT23-6
-
+0
+0
+0
 
 0
 6
 6
-adafruit
-SOT23-R
-<b>SOT23</b> - Reflow soldering
+0
+0
+0
 
 0
 3
 3
-adafruit
-SOT23-W
-<b>SOT23</b> - Wave soldering
+0
+0
+0
 
 0
 3
 3
-adafruit
-SPRINGTERMINAL-17
-
+0
+0
+0
 
 0
 34
 34
-adafruit
-SQFP-S-5X5-48
+0
+0
+0
+shrink quad flat pack, square
+
+0
+48
+48
+0
+0
 <b>QFP48</b><p>
 shrink quad flat pack, square
 
 0
 48
 48
-adafruit
-SQFP-S-7X7-48
-<b>QFP48</b><p>
-shrink quad flat pack, square
-
 0
-48
-48
-adafruit
 SSOP20
 
 
 0
 20
 20
-adafruit
+0
 SSOP24
 <b>Shrink Small Outline Package</b> SSOP-24<p>
 
 0
 24
 24
-adafruit
+0
 SSOP28
 <b>Shrink Small Outline Package</b><p>
 package type SS
@@ -79586,58 +79586,58 @@ adafruit
 STX3100
 <b>MIC/HEADPHONE JACK</b><p>
 KS-S stereo microphone/headphone jack<p>
- PG203JN (Schukat)
-
+0
+0
 0
 5
 5
 adafruit
 SUN
-
-
+0
+0
 0
 9
 9
 adafruit
 TACT_PANA-EVQ
-
-
+0
+0
 0
 2
 2
 adafruit
 TAP5-45
-<b>ELECTROLYTIC CAPACITOR</b><p>
-diameter 4.5 mm, grid 5.08 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-TAP5-50
-<b>ELECTROLYTIC CAPACITOR</b><p>
-diameter 5.0 mm, grid 5.08 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-TAP5-60
-<b>ELECTROLYTIC CAPACITOR</b><p>
+0
+0
+0
 diameter 6.0 mm, grid 5.08 mm
 
 0
 2
 2
-adafruit
-TAP5-70
+0
+0
 <b>ELECTROLYTIC CAPACITOR</b><p>
 diameter 7.0 mm, grid 5.08 mm
 
 0
 2
 2
-adafruit
+0
 TAP5-80
 <b>ELECTROLYTIC CAPACITOR</b><p>
 diameter 8.0 mm, grid 5.08 mm
@@ -79684,205 +79684,205 @@ adafruit
 TDFN14_3X3MM
 <b>TDFN 14 3x3x0.75mm</b>
 <p>Source: http://datasheets.maxim-ic.com/en/ds/MAX98306.pdf</p>
-<p>Based on recommendtions in: http://www.freescale.com/files/sensors/doc/data_sheet/MAG3110.pdf</p>
-
+0
+0
 0
 15
 15
 adafruit
 TEENSY
-
-
+0
+0
 0
 29
 29
 adafruit
 TESTCLIP
-
-
+0
+0
 0
 0
 0
 adafruit
 TFT_2.83IN_240X320_50PIN
-
-
+0
+0
 0
 52
 52
 adafruit
 TFT_CTP28
-
-
+0
+0
 0
 52
 52
 adafruit
 THUMBWHEEL
-
-
+0
+0
 0
 5
 5
 adafruit
 THUMBWHEELV
-
-
+0
+0
 0
 5
 5
 adafruit
 TO39
-<b>Metal Can Package</b>
-
+0
+0
 0
 3
 3
 adafruit
 TO92
-<b>TO-92</b>
-
+0
+0
 0
 3
 3
 adafruit
 TO92-EBC-OVAL
-<b>TO-92</b><p>
-grid 5.08 mm
-
+0
+0
+0
 0
 3
 3
 adafruit
-TO92-INLINE
-<b>VOLTAGE REGULATOR</b>
-
+0
+0
+0
 0
 3
 3
 adafruit
-TO92-OVAL
-
-
+0
+0
+0
 0
 3
 3
 adafruit
-TO92H
-<B>DIODE</B><p>
-2-lead plastic, vertical
+0
+0
+2
 
 0
 2
 2
-adafruit
-TO220
-<b>TO-220</b><p>
+0
+0
+0
 grid 2.54 mm, horinzontal
 
 0
 3
 3
-adafruit
-TO220-NOHOLE
+0
+0
 
 
 0
 3
 3
-adafruit
-TO220H
+0
+0
 <b>TO-220</b>
 
 0
 3
 3
-adafruit
-TO220V
+0
+0
 <b>TO 200 vertical</b>
 
 0
 3
 3
-adafruit
-TO237
+0
+0
 <b>TO 273</b>
 
 0
 3
 3
-adafruit
-TO252
+0
+0
 <b>SMALL OUTLINE TRANSISTOR</b><p>
 TS-003
 
 0
 3
 3
-adafruit
+0
 TQFP32-08
 <B>Thin Plasic Quad Flat Package</B> Grid 0.8 mm
 
 0
 32
 32
-adafruit
+0
 TQFP44
 
 
 0
 44
 44
-adafruit
+0
 TRIM-3386
 
 
 0
 3
 3
-adafruit
+0
 TRIMBLE
 
 
 0
 8
 8
-adafruit
+0
 TS12864
 
 
 0
 20
 20
-adafruit
+0
 TSSOP-8
 
 
 0
 8
 8
-adafruit
+0
 TSSOP14
 <b>Thin Shrink Small Outline Plastic 14</b><p>
 
 0
 14
 14
-adafruit
+0
 TSSOP20
 
 
 0
 20
 20
-adafruit
+0
 TSSOP28
 
 
 0
 28
 28
-adafruit
+0
 TT2D4
 <b>ELECTROLYTIC CAPACITOR</b><p>
 diameter 4 mm, grid 2.54 mm
@@ -79894,51 +79894,51 @@ adafruit
 TT2D4L
 <b>ELECTROLYTIC CAPACITOR</b><p>
 diameter 4 mm, grid 2.54 mm
-
+0
 0
 2
 2
 adafruit
 TT2D5
 <b>ELECTROLYTIC CAPACITOR</b><p>
-diameter 5 mm, grid 2.54 mm
-
+0
+0
 0
 2
 2
 adafruit
 TT2D5L
-<b>ELECTROLYTIC CAPACITOR</b><p>
-diameter 5 mm, grid 2.54 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-TT2D6
-<b>ELECTROLYTIC CAPACITOR</b><p>
+0
+0
+0
+
+0
+2
+2
+0
+0
+0
 diameter 6 mm, grid 2.54 mm
 
 0
 2
 2
-adafruit
-TT2D6L
-<b>ELECTROLYTIC CAPACITOR</b><p>
-diameter 6 mm, grid 2.54 mm
-
 0
-2
-2
-adafruit
-TT2D7
+0
 <b>ELECTROLYTIC CAPACITOR</b><p>
 diameter 7 mm, grid 2.54 mm
 
 0
 2
 2
-adafruit
+0
 TT2D7L
 <b>ELECTROLYTIC CAPACITOR</b><p>
 diameter 7 mm, grid 2.54 mm
@@ -79950,51 +79950,51 @@ adafruit
 TT5D6
 <b>ELECTROLYTIC CAPACITOR</b><p>
 diameter 6 mm, grid 5.08 mm
-
+0
 0
 2
 2
 adafruit
 TT5D6L
 <b>ELECTROLYTIC CAPACITOR</b><p>
-diameter 6 mm, grid 5.08 mm
-
+0
+0
 0
 2
 2
 adafruit
 TT5D7
-<b>ELECTROLYTIC CAPACITOR</b><p>
-diameter 7 mm, grid 5.08 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-TT5D7L
-<b>ELECTROLYTIC CAPACITOR</b><p>
-diameter 7 mm, grid 5.08 mm
+0
+0
+0
 
 0
 2
 2
-adafruit
-TT5D9
+0
+0
+0
+diameter 9 mm, grid 5.08 mm
+
+0
+2
+2
+0
+0
 <b>ELECTROLYTIC CAPACITOR</b><p>
 diameter 9 mm, grid 5.08 mm
 
 0
 2
 2
-adafruit
-TT5D9L
-<b>ELECTROLYTIC CAPACITOR</b><p>
-diameter 9 mm, grid 5.08 mm
-
 0
-2
-2
-adafruit
 TT5D10
 <b>ELECTROLYTIC CAPACITOR</b><p>
 diameter 10 mm, grid 5.08 mm
@@ -80006,93 +80006,93 @@ adafruit
 TT5D11
 <b>ELECTROLYTIC CAPACITOR</b><p>
 diameter 11 mm, grid 5.08 mm
-
+0
 0
 2
 2
 adafruit
 TT5D11L
 <b>ELECTROLYTIC CAPACITOR</b><p>
-diameter 11 mm, grid 5.08 mm
-
+0
+0
 0
 2
 2
 adafruit
 U.FL
-
-
+0
+0
 0
 3
 3
 adafruit
 U57X32
-<B>LED</B><p>
-rectangle, 5.7 x 3.2 mm
-
+0
+0
+0
 0
 2
 2
 adafruit
-UDFN-8
-
-
+0
+0
+0
 0
 9
 9
 adafruit
-UMAX10
-
-
+0
+0
+0
 0
 10
 10
 adafruit
-USB-MINIB
-Surface Mount USB Mini-B Connector
-
+0
+0
+0
 0
 9
 9
 adafruit
-USB-MINIB-THM
-<b>Mini USB 5-pin thru-mount connector</b>
-<p>
+0
+0
+0
 4Ucon #18732
 
 0
 9
 9
-adafruit
-USB-MINIB-THM-MOLEX
+0
+0
 
 
 0
 7
 7
-adafruit
-USB-MINIB-THM-MOLEX-PWRONLY
+0
+0
 
 
 0
 4
 4
-adafruit
-USB-MINIB-THM-PWRONLY
+0
+0
 
 
 0
 6
 6
-adafruit
-V234_12
+0
+0
 <b>RESISTOR</b><p>
 type V234, grid 12.5 mm
 
 0
 2
 2
-adafruit
+0
 V235_17
 <b>RESISTOR</b><p>
 type V235, grid 17.78 mm
@@ -80104,123 +80104,118 @@ adafruit
 V526-0
 <b>RESISTOR</b><p>
 type V526-0, grid 2.5 mm
-
+0
 0
 2
 2
 adafruit
 VFSOP-8
 <b>VFSOP8</b> - 0.5mm pitch, 2.0x2.3mm
-<p>Source: http://focus.ti.com/lit/ds/symlink/txs0102.pdf</p>
-
+0
+0
 0
 8
 8
 adafruit
 WS2812
-
-
+0
+0
 0
 6
 6
 adafruit
 WS2812B
-
-
+0
+0
 0
 4
 4
 adafruit
 WS2812B-NARROW
-
-
+0
+0
 0
 4
 4
 adafruit
 XBEE
-
-
+0
+0
 0
 20
 20
 adafruit
 XF2E-0515-1
-<b>Non-ZIF Type (0.8 mm-pitch)</b><p>
+0
+0
+0
+0
+7
+7
+adafruit
+0
+0
+0
+
+0
+42
+42
+0
+0
+0
 Source : http://www.omron.com/ecb/products/pdf/fpc.pdf
 
 0
 7
 7
-adafruit
-XF2H-4015-1LW
-<b>Standard Rotary Backlock Type (0.5 mm-pitch)</b><p>
-Source : http://www.omron.com/ecb/products/pdf/fpc.pdf
-
 0
-42
-42
-adafruit
-XF2L-0535-1
-<b>ZIF Slide-locking Type (0.5 mm-pitch)</b> Lower-contact Type<p>
-Source : http://www.omron.com/ecb/products/pdf/fpc.pdf
-
 0
-7
-7
-adafruit
-XF2M-4015-1F-REVERSE
 
 
 0
 42
 42
-adafruit
-XF2R-4015-4A
+0
+0
 <b>Low-profile Rotary Backlock Type (0.5 mm-pitch)</b><p>Source : http://www.omron.com/ecb/products/pdf/fpc.pdf
 
 0
 42
 42
-adafruit
-XTAL3215
+0
+0
 
 
 0
 2
 2
-eec
-Diodes_Inc.-SOT223-03_2017-0-IPC_A
+0
+0
 
 
 0
 4
 4
-eec
-Diodes_Inc.-SOT223-03_2017-0-IPC_B
+0
+0
 
 
 0
 4
 4
-eec
-Diodes_Inc.-SOT223-03_2017-0-IPC_C
+0
+0
 
 
 0
 4
 4
-eec
-Diodes_Inc.-SOT223-03_2017-0-MFG
+0
+0
 
 
 0
 4
 4
-micro
-XCVR_317030213
-
-
 0
-41
-41
+0
