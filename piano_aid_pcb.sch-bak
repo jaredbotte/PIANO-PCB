@@ -93,7 +93,7 @@ Text GLabel 3050 1500 2    50   Input ~ 0
 GND
 Connection ~ 1700 1500
 Connection ~ 1700 1200
-Text GLabel 8650 4200 0    50   Input ~ 0
+Text GLabel 8400 4200 0    50   Input ~ 0
 3.3V
 Text GLabel 5900 2500 2    50   Input ~ 0
 3.3V
@@ -117,8 +117,6 @@ Wire Wire Line
 	9250 4300 9150 4300
 Wire Wire Line
 	8650 4000 9250 4000
-Wire Wire Line
-	8650 4200 8700 4200
 Connection ~ 8900 4200
 NoConn ~ 9250 3700
 Wire Wire Line
@@ -406,7 +404,6 @@ NoConn ~ 5650 3500
 NoConn ~ 5650 3600
 NoConn ~ 5650 3300
 NoConn ~ 5650 3800
-NoConn ~ 5650 4600
 NoConn ~ 5650 4700
 NoConn ~ 3650 3700
 NoConn ~ 3650 3600
@@ -417,7 +414,6 @@ NoConn ~ 3650 3200
 NoConn ~ 1150 1650
 NoConn ~ 5650 2700
 NoConn ~ 5650 2600
-NoConn ~ 10950 4600
 Wire Wire Line
 	7250 2500 7650 2500
 Wire Wire Line
@@ -593,7 +589,7 @@ F 5 "Seeed Technology Co" H 4650 3700 50  0001 L BNN "MANUFACTURER"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Barrel_Jack_MountingPin J1
+L piano_aid_pcb-rescue:Barrel_Jack_MountingPin-Connector J1
 U 1 1 61503033
 P 1150 1350
 F 0 "J1" H 1207 1667 50  0000 C CNN
@@ -601,17 +597,6 @@ F 1 "Barrel_Jack_MountingPin" H 1207 1576 50  0000 C CNN
 F 2 "Connector_BarrelJack:BarrelJack_Horizontal" H 1200 1310 50  0001 C CNN
 F 3 "~" H 1200 1310 50  0001 C CNN
 	1    1150 1350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Micro_SD_Card_Det J5
-U 1 1 61510C4F
-P 10150 4100
-F 0 "J5" H 10100 4917 50  0000 C CNN
-F 1 "Micro_SD_Card_Det" H 10100 4826 50  0000 C CNN
-F 2 "adafruit:MICROSD" H 12200 4800 50  0001 C CNN
-F 3 "https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1" H 10150 4200 50  0001 C CNN
-	1    10150 4100
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -824,4 +809,49 @@ F 3 "~" H 10450 1250 50  0001 C CNN
 	1    10450 1250
 	1    0    0    -1  
 $EndComp
+NoConn ~ 9250 4500
+$Comp
+L Device:R R10
+U 1 1 6157C549
+P 8550 4700
+F 0 "R10" V 8343 4700 50  0000 C CNN
+F 1 "10k" V 8434 4700 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 8480 4700 50  0001 C CNN
+F 3 "~" H 8550 4700 50  0001 C CNN
+	1    8550 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8550 4550 8550 4200
+Wire Wire Line
+	8400 4200 8550 4200
+Connection ~ 8550 4200
+Wire Wire Line
+	8550 4200 8700 4200
+Wire Wire Line
+	8550 4850 8550 5000
+Wire Wire Line
+	8550 5000 9250 5000
+Wire Wire Line
+	9250 5000 9250 4600
+Wire Wire Line
+	8550 5000 8200 5000
+Connection ~ 8550 5000
+Text GLabel 8200 5000 0    50   Input ~ 0
+DET
+Text GLabel 5650 4600 2    50   Input ~ 0
+DET
+$Comp
+L Connector:Micro_SD_Card_Det J5
+U 1 1 61510C4F
+P 10150 4100
+F 0 "J5" H 10100 4917 50  0000 C CNN
+F 1 "Micro_SD_Card_Det" H 10100 4826 50  0000 C CNN
+F 2 "microsd:MICROSD" H 12200 4800 50  0001 C CNN
+F 3 "https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1" H 10150 4200 50  0001 C CNN
+	1    10150 4100
+	1    0    0    -1  
+$EndComp
+Text GLabel 10950 4600 2    50   Input ~ 0
+GND
 $EndSCHEMATC
