@@ -11,4 +11,5 @@
   (lib (name 796644-3)(type KiCad)(uri ${KIPRJMOD}/Parts/796644-3)(options "")(descr ""))
   (lib (name 4-1437565-1)(type KiCad)(uri ${KIPRJMOD}/Parts/4-1437565-1)(options "")(descr ""))
   (lib (name microsd)(type KiCad)(uri ${KIPRJMOD}/Parts/microsd)(options "")(descr ""))
+  (lib (name PJ-082BH)(type KiCad)(uri "U:/My Documents/PIANO-PCB/Parts/PJ-082BH")(options "")(descr ""))
 )

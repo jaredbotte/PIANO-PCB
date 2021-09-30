@@ -36,8 +36,6 @@ F 3 "~" H 9400 2500 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	1450 1250 1550 1250
-Wire Wire Line
 	1550 1250 1550 1200
 Wire Wire Line
 	1550 1200 1700 1200
@@ -588,17 +586,6 @@ F 5 "Seeed Technology Co" H 4650 3700 50  0001 L BNN "MANUFACTURER"
 	1    4650 3700
 	1    0    0    -1  
 $EndComp
-$Comp
-L piano_aid_pcb-rescue:Barrel_Jack_MountingPin-Connector J1
-U 1 1 61503033
-P 1150 1350
-F 0 "J1" H 1207 1667 50  0000 C CNN
-F 1 "Barrel_Jack_MountingPin" H 1207 1576 50  0000 C CNN
-F 2 "Connector_BarrelJack:BarrelJack_Horizontal" H 1200 1310 50  0001 C CNN
-F 3 "~" H 1200 1310 50  0001 C CNN
-	1    1150 1350
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	9250 4400 9200 4400
 Wire Wire Line
@@ -664,7 +651,7 @@ L Device:R R9
 U 1 1 61563F75
 P 7200 5200
 F 0 "R9" H 7270 5246 50  0000 L CNN
-F 1 "10k" H 7270 5155 50  0000 L CNN
+F 1 "50k" H 7270 5155 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7130 5200 50  0001 C CNN
 F 3 "~" H 7200 5200 50  0001 C CNN
 	1    7200 5200
@@ -677,7 +664,7 @@ L Device:C C8
 U 1 1 61564E4F
 P 7000 5750
 F 0 "C8" H 7115 5796 50  0000 L CNN
-F 1 "C" H 7115 5705 50  0000 L CNN
+F 1 "0.01µ" H 7115 5705 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7038 5600 50  0001 C CNN
 F 3 "~" H 7000 5750 50  0001 C CNN
 	1    7000 5750
@@ -854,4 +841,30 @@ F 3 "https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catal
 $EndComp
 Text GLabel 10950 4600 2    50   Input ~ 0
 GND
+$Comp
+L PJ-082BH:PJ-082BH J1
+U 1 1 61572DF0
+P 950 1350
+F 0 "J1" H 897 1036 50  0000 C CNN
+F 1 "PJ-082BH" H 897 1127 50  0000 C CNN
+F 2 "PJ-082BH:CUI_PJ-082BH" H 950 1350 50  0001 L BNN
+F 3 "" H 950 1350 50  0001 L BNN
+F 4 "CUI Inc" H 950 1350 50  0001 L BNN "MANUFACTURER"
+	1    950  1350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1150 1450 1250 1450
+Wire Wire Line
+	1250 1450 1250 1250
+Wire Wire Line
+	1250 1250 1550 1250
+Wire Wire Line
+	1150 1250 1200 1250
+Wire Wire Line
+	1200 1250 1200 1150
+Wire Wire Line
+	1200 1150 1450 1150
+Wire Wire Line
+	1450 1150 1450 1450
 $EndSCHEMATC
