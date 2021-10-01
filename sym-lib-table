@@ -5,4 +5,6 @@
   (lib (name C1206C226M9PACTU)(type Legacy)(uri ${KIPRJMOD}/Parts/C1206C226M9PACTU/C1206C226M9PACTU.lib)(options "")(descr ""))
   (lib (name 74AHCT1G125W5-7)(type Legacy)(uri ${KIPRJMOD}/Parts/74AHCT1G125W5-7/74AHCT1G125W5-7.lib)(options "")(descr ""))
   (lib (name 796644-3)(type Legacy)(uri ${KIPRJMOD}/Parts/796644-3/796644-3.lib)(options "")(descr ""))
+  (lib (name piano_aid_pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/piano_aid_pcb-rescue.lib)(options "")(descr ""))
+  (lib (name PJ-082BH)(type Legacy)(uri ${KIPRJMOD}/Parts/PJ-082BH/PJ-082BH.lib)(options "")(descr ""))
 )
