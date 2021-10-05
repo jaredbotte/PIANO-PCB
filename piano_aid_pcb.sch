@@ -403,7 +403,6 @@ NoConn ~ 5650 3600
 NoConn ~ 5650 3300
 NoConn ~ 5650 3800
 NoConn ~ 5650 4700
-NoConn ~ 3650 3700
 NoConn ~ 3650 3600
 NoConn ~ 3650 3500
 NoConn ~ 3650 3400
@@ -867,4 +866,21 @@ Wire Wire Line
 	1200 1150 1450 1150
 Wire Wire Line
 	1450 1150 1450 1450
+$Comp
+L Device:R R11
+U 1 1 615CBC31
+P 3300 3700
+F 0 "R11" V 3093 3700 50  0000 C CNN
+F 1 "10k" V 3184 3700 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 3230 3700 50  0001 C CNN
+F 3 "~" H 3300 3700 50  0001 C CNN
+	1    3300 3700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3450 3700 3650 3700
+Text GLabel 2900 3700 0    50   Input ~ 0
+3.3V
+Wire Wire Line
+	2900 3700 3150 3700
 $EndSCHEMATC
