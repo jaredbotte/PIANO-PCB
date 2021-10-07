@@ -4,13 +4,13 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Interactive Piano Aid"
-Date "2021-09-07"
-Rev "v02"
+Title "P.I.A.N.O"
+Date "2021-10-06"
+Rev "2"
 Comp ""
 Comment1 ""
 Comment2 ""
-Comment3 ""
+Comment3 "Tong Wang, Kirk Weibel"
 Comment4 "Authors: Jared Botte, Jerry Liu"
 $EndDescr
 $Comp
