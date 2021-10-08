@@ -50,27 +50,27 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x06_Female J4
 U 1 1 613D4830
-P 1000 3100
-F 0 "J4" H 892 2575 50  0000 C CNN
-F 1 "Conn_01x06_Female" H 892 2666 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 1000 3100 50  0001 C CNN
-F 3 "~" H 1000 3100 50  0001 C CNN
-	1    1000 3100
+P 1000 3350
+F 0 "J4" H 892 2825 50  0000 C CNN
+F 1 "Conn_01x06_Female" H 892 2916 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 1000 3350 50  0001 C CNN
+F 3 "~" H 1000 3350 50  0001 C CNN
+	1    1000 3350
 	-1   0    0    1   
 $EndComp
-Text Label 1250 2800 0    50   ~ 0
+Text Label 1250 3050 0    50   ~ 0
 VDD
-Text Label 1250 3100 0    50   ~ 0
+Text Label 1250 3350 0    50   ~ 0
 SWDCLK
-Text Label 1250 3000 0    50   ~ 0
+Text Label 1250 3250 0    50   ~ 0
 SWDIO
 Wire Wire Line
-	1200 3300 2000 3300
-Text Label 1250 3300 0    50   ~ 0
+	1200 3550 2000 3550
+Text Label 1250 3550 0    50   ~ 0
 GND
-Text Label 1250 3200 0    50   ~ 0
+Text Label 1250 3450 0    50   ~ 0
 GND_DETECT
-Text Label 1250 2900 0    50   ~ 0
+Text Label 1250 3150 0    50   ~ 0
 RESET
 $Comp
 L Device:R R5
@@ -84,7 +84,7 @@ F 3 "~" H 8900 4350 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	1200 3200 2000 3200
+	1200 3450 2000 3450
 Text GLabel 3050 1200 2    50   Input ~ 0
 5V
 Text GLabel 3050 1500 2    50   Input ~ 0
@@ -98,14 +98,14 @@ Text GLabel 5900 2500 2    50   Input ~ 0
 Wire Wire Line
 	5650 2500 5900 2500
 Wire Wire Line
-	1200 2800 2000 2800
-Text GLabel 2000 2800 2    50   Input ~ 0
+	1200 3050 2000 3050
+Text GLabel 2000 3050 2    50   Input ~ 0
 3.3V
 Text GLabel 5650 4900 2    50   Input ~ 0
 GND
-Text GLabel 2000 3200 2    50   Input ~ 0
+Text GLabel 2000 3450 2    50   Input ~ 0
 GND
-Text GLabel 2000 3300 2    50   Input ~ 0
+Text GLabel 2000 3550 2    50   Input ~ 0
 GND
 Text GLabel 8650 4000 0    50   Input ~ 0
 GND
@@ -174,10 +174,10 @@ Text GLabel 10100 2500 2    50   Input ~ 0
 LED_CONTROL_OUT
 Text GLabel 6900 3700 2    50   Input ~ 0
 RESET_IN
-Text GLabel 2000 2900 2    50   Input ~ 0
+Text GLabel 2000 3150 2    50   Input ~ 0
 RESET
 Wire Wire Line
-	1200 2900 2000 2900
+	1200 3150 2000 3150
 $Comp
 L Device:CP1 C2
 U 1 1 61480AF3
@@ -530,14 +530,14 @@ Text GLabel 3300 2900 0    50   Input ~ 0
 SWDCLK
 Text GLabel 3300 3000 0    50   Input ~ 0
 SWDIO
-Text GLabel 2000 3000 2    50   Input ~ 0
+Text GLabel 2000 3250 2    50   Input ~ 0
 SWDIO
-Text GLabel 2000 3100 2    50   Input ~ 0
+Text GLabel 2000 3350 2    50   Input ~ 0
 SWDCLK
 Wire Wire Line
-	1200 3100 2000 3100
+	1200 3350 2000 3350
 Wire Wire Line
-	1200 3000 2000 3000
+	1200 3250 2000 3250
 Wire Wire Line
 	3300 2900 3650 2900
 Wire Wire Line
