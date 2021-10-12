@@ -661,62 +661,35 @@ Text GLabel 7200 4900 1    50   Input ~ 0
 $Comp
 L Device:C C8
 U 1 1 61564E4F
-P 7000 5750
-F 0 "C8" H 7115 5796 50  0000 L CNN
-F 1 "0.01µ" H 7115 5705 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7038 5600 50  0001 C CNN
-F 3 "~" H 7000 5750 50  0001 C CNN
-	1    7000 5750
+P 7000 5850
+F 0 "C8" H 7115 5896 50  0000 L CNN
+F 1 "0.01µ" H 7115 5805 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7038 5700 50  0001 C CNN
+F 3 "~" H 7000 5850 50  0001 C CNN
+	1    7000 5850
 	1    0    0    -1  
 $EndComp
-Text GLabel 7200 5950 3    50   Input ~ 0
+Text GLabel 7200 6150 3    50   Input ~ 0
 GND
-$Comp
-L dk_Pushbutton-Switches:GPTS203211B S1
-U 1 1 615742BF
-P 7400 5700
-F 0 "S1" V 7354 5838 50  0000 L CNN
-F 1 "GPTS203211B" V 7445 5838 50  0000 L CNN
-F 2 "4-1437565-1:SW_4-1437565-1" H 7600 5900 50  0001 L CNN
-F 3 "http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf" H 7600 6000 60  0001 L CNN
-F 4 "CW181-ND" H 7600 6100 60  0001 L CNN "Digi-Key_PN"
-F 5 "GPTS203211B" H 7600 6200 60  0001 L CNN "MPN"
-F 6 "Switches" H 7600 6300 60  0001 L CNN "Category"
-F 7 "Pushbutton Switches" H 7600 6400 60  0001 L CNN "Family"
-F 8 "http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf" H 7600 6500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/cw-industries/GPTS203211B/CW181-ND/3190590" H 7600 6600 60  0001 L CNN "DK_Detail_Page"
-F 10 "SWITCH PUSHBUTTON SPST 1A 30V" H 7600 6700 60  0001 L CNN "Description"
-F 11 "CW Industries" H 7600 6800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 7600 6900 60  0001 L CNN "Status"
-	1    7400 5700
-	0    1    1    0   
-$EndComp
 Text GLabel 6700 5500 0    50   Input ~ 0
 RESET
 Wire Wire Line
 	6700 5500 7000 5500
-Connection ~ 7400 5500
-Wire Wire Line
-	7400 5500 7500 5500
 Wire Wire Line
 	7200 5350 7200 5500
 Connection ~ 7200 5500
 Wire Wire Line
-	7200 5500 7400 5500
-Wire Wire Line
 	7200 5050 7200 4900
-Wire Wire Line
-	7000 5600 7000 5500
 Connection ~ 7000 5500
 Wire Wire Line
 	7000 5500 7200 5500
 Wire Wire Line
-	7000 5900 7200 5900
+	7000 6100 7200 6100
 Wire Wire Line
-	7200 5950 7200 5900
-Connection ~ 7200 5900
+	7200 6150 7200 6100
+Connection ~ 7200 6100
 Wire Wire Line
-	7200 5900 7400 5900
+	7200 6100 7400 6100
 Wire Wire Line
 	2300 1500 2850 1500
 Wire Wire Line
@@ -883,4 +856,28 @@ Text GLabel 2900 3700 0    50   Input ~ 0
 3.3V
 Wire Wire Line
 	2900 3700 3150 3700
+$Comp
+L 4-1437565-1:4-1437565-1 S1
+U 1 1 61665EF9
+P 7400 5800
+F 0 "S1" V 7354 5911 50  0000 L CNN
+F 1 "4-1437565-1" V 7445 5911 50  0000 L CNN
+F 2 "4-1437565-1:SW_4-1437565-1" H 7400 5800 50  0001 L BNN
+F 3 "" H 7400 5800 50  0001 L BNN
+F 4 "Compliant" H 7400 5800 50  0001 L BNN "EU_RoHS_Compliance"
+F 5 "50 mA" H 7400 5800 50  0001 L BNN "Contact_Current_Rating"
+F 6 "Single Pole - Single Throw" H 7400 5800 50  0001 L BNN "Configuration_Pole-Throw"
+F 7 "4-1437565-1" H 7400 5800 50  0001 L BNN "Comment"
+	1    7400 5800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7200 5500 7400 5500
+Connection ~ 7400 5500
+Wire Wire Line
+	7400 5500 7500 5500
+Wire Wire Line
+	7000 5500 7000 5700
+Wire Wire Line
+	7000 6000 7000 6100
 $EndSCHEMATC

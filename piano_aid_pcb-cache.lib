@@ -56,6 +56,29 @@ X DEC4 9 1000 1000 200 L 40 40 0 0 W
 ENDDRAW
 ENDDEF
 #
+# 4-1437565-1_4-1437565-1
+#
+DEF 4-1437565-1_4-1437565-1 S 0 40 Y N 1 L N
+F0 "S" -100 100 50 H V L BNN
+F1 "4-1437565-1_4-1437565-1" -100 -100 50 H V L BNN
+F2 "SW_4-1437565-1" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Compliant" 0 0 50 H I L BNN "EU_RoHS_Compliance"
+F5 "50 mA" 0 0 50 H I L BNN "Contact_Current_Rating"
+F6 "Single Pole - Single Throw" 0 0 50 H I L BNN "Configuration_Pole-Throw"
+F7 "4-1437565-1" 0 0 50 H I L BNN "Comment"
+DRAW
+C 100 0 13 0 0 6 N
+P 2 0 0 6 -100 0 -200 0 N
+P 2 0 0 6 -100 0 110 84 N
+P 2 0 0 6 200 0 115 0 N
+X ~ 1 -300 0 100 R 40 40 0 0 P
+X ~ 2 -300 0 100 R 40 40 0 0 P
+X ~ 3 300 0 100 L 40 40 0 0 P
+X ~ 4 300 0 100 L 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
 # 74AHCT1G125W5-7_74AHCT1G125W5-7
 #
 DEF 74AHCT1G125W5-7_74AHCT1G125W5-7 U 0 40 Y Y 1 L N
@@ -488,35 +511,6 @@ P 3 0 1 0 0 125 25 125 25 100 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
 X ~ 1 -200 0 100 R 50 50 1 1 P
 X ~ 2 100 0 100 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# dk_Pushbutton-Switches_GPTS203211B
-#
-DEF dk_Pushbutton-Switches_GPTS203211B S 0 40 Y Y 1 F N
-F0 "S" -150 150 50 H V C CNN
-F1 "dk_Pushbutton-Switches_GPTS203211B" 0 -100 50 H V C CNN
-F2 "digikey-footprints:PushButton_12x12mm_THT_GPTS203211B" 200 200 50 H I L CNN
-F3 "http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf" 200 300 60 H I L CNN
-F4 "CW181-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "GPTS203211B" 200 500 60 H I L CNN "MPN"
-F6 "Switches" 200 600 60 H I L CNN "Category"
-F7 "Pushbutton Switches" 200 700 60 H I L CNN "Family"
-F8 "http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/cw-industries/GPTS203211B/CW181-ND/3190590" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SWITCH PUSHBUTTON SPST 1A 30V" 200 1000 60 H I L CNN "Description"
-F11 "CW Industries" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-C -60 0 10 0 1 0 N
-C 60 0 10 0 1 0 N
-P 2 0 1 0 -100 0 -70 0 N
-P 2 0 1 0 -70 50 70 50 N
-P 2 0 1 0 -40 110 40 110 N
-P 2 0 1 0 0 50 0 110 N
-P 2 0 1 0 100 0 70 0 N
-X ~ 1 -200 0 100 R 50 50 1 1 P
-X ~ 2 200 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #

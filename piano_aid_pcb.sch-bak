@@ -50,27 +50,27 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x06_Female J4
 U 1 1 613D4830
-P 1000 3100
-F 0 "J4" H 892 2575 50  0000 C CNN
-F 1 "Conn_01x06_Female" H 892 2666 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 1000 3100 50  0001 C CNN
-F 3 "~" H 1000 3100 50  0001 C CNN
-	1    1000 3100
+P 1000 3350
+F 0 "J4" H 892 2825 50  0000 C CNN
+F 1 "Conn_01x06_Female" H 892 2916 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 1000 3350 50  0001 C CNN
+F 3 "~" H 1000 3350 50  0001 C CNN
+	1    1000 3350
 	-1   0    0    1   
 $EndComp
-Text Label 1250 2800 0    50   ~ 0
+Text Label 1250 3050 0    50   ~ 0
 VDD
-Text Label 1250 3100 0    50   ~ 0
+Text Label 1250 3350 0    50   ~ 0
 SWDCLK
-Text Label 1250 3000 0    50   ~ 0
+Text Label 1250 3250 0    50   ~ 0
 SWDIO
 Wire Wire Line
-	1200 3300 2000 3300
-Text Label 1250 3300 0    50   ~ 0
+	1200 3550 2000 3550
+Text Label 1250 3550 0    50   ~ 0
 GND
-Text Label 1250 3200 0    50   ~ 0
+Text Label 1250 3450 0    50   ~ 0
 GND_DETECT
-Text Label 1250 2900 0    50   ~ 0
+Text Label 1250 3150 0    50   ~ 0
 RESET
 $Comp
 L Device:R R5
@@ -84,7 +84,7 @@ F 3 "~" H 8900 4350 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	1200 3200 2000 3200
+	1200 3450 2000 3450
 Text GLabel 3050 1200 2    50   Input ~ 0
 5V
 Text GLabel 3050 1500 2    50   Input ~ 0
@@ -98,14 +98,14 @@ Text GLabel 5900 2500 2    50   Input ~ 0
 Wire Wire Line
 	5650 2500 5900 2500
 Wire Wire Line
-	1200 2800 2000 2800
-Text GLabel 2000 2800 2    50   Input ~ 0
+	1200 3050 2000 3050
+Text GLabel 2000 3050 2    50   Input ~ 0
 3.3V
 Text GLabel 5650 4900 2    50   Input ~ 0
 GND
-Text GLabel 2000 3200 2    50   Input ~ 0
+Text GLabel 2000 3450 2    50   Input ~ 0
 GND
-Text GLabel 2000 3300 2    50   Input ~ 0
+Text GLabel 2000 3550 2    50   Input ~ 0
 GND
 Text GLabel 8650 4000 0    50   Input ~ 0
 GND
@@ -174,10 +174,10 @@ Text GLabel 10100 2500 2    50   Input ~ 0
 LED_CONTROL_OUT
 Text GLabel 6900 3700 2    50   Input ~ 0
 RESET_IN
-Text GLabel 2000 2900 2    50   Input ~ 0
+Text GLabel 2000 3150 2    50   Input ~ 0
 RESET
 Wire Wire Line
-	1200 2900 2000 2900
+	1200 3150 2000 3150
 $Comp
 L Device:CP1 C2
 U 1 1 61480AF3
@@ -530,14 +530,14 @@ Text GLabel 3300 2900 0    50   Input ~ 0
 SWDCLK
 Text GLabel 3300 3000 0    50   Input ~ 0
 SWDIO
-Text GLabel 2000 3000 2    50   Input ~ 0
+Text GLabel 2000 3250 2    50   Input ~ 0
 SWDIO
-Text GLabel 2000 3100 2    50   Input ~ 0
+Text GLabel 2000 3350 2    50   Input ~ 0
 SWDCLK
 Wire Wire Line
-	1200 3100 2000 3100
+	1200 3350 2000 3350
 Wire Wire Line
-	1200 3000 2000 3000
+	1200 3250 2000 3250
 Wire Wire Line
 	3300 2900 3650 2900
 Wire Wire Line
@@ -661,62 +661,35 @@ Text GLabel 7200 4900 1    50   Input ~ 0
 $Comp
 L Device:C C8
 U 1 1 61564E4F
-P 7000 5750
-F 0 "C8" H 7115 5796 50  0000 L CNN
-F 1 "0.01µ" H 7115 5705 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7038 5600 50  0001 C CNN
-F 3 "~" H 7000 5750 50  0001 C CNN
-	1    7000 5750
+P 7000 5850
+F 0 "C8" H 7115 5896 50  0000 L CNN
+F 1 "0.01µ" H 7115 5805 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7038 5700 50  0001 C CNN
+F 3 "~" H 7000 5850 50  0001 C CNN
+	1    7000 5850
 	1    0    0    -1  
 $EndComp
-Text GLabel 7200 5950 3    50   Input ~ 0
+Text GLabel 7200 6150 3    50   Input ~ 0
 GND
-$Comp
-L dk_Pushbutton-Switches:GPTS203211B S1
-U 1 1 615742BF
-P 7400 5700
-F 0 "S1" V 7354 5838 50  0000 L CNN
-F 1 "GPTS203211B" V 7445 5838 50  0000 L CNN
-F 2 "4-1437565-1:SW_4-1437565-1" H 7600 5900 50  0001 L CNN
-F 3 "http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf" H 7600 6000 60  0001 L CNN
-F 4 "CW181-ND" H 7600 6100 60  0001 L CNN "Digi-Key_PN"
-F 5 "GPTS203211B" H 7600 6200 60  0001 L CNN "MPN"
-F 6 "Switches" H 7600 6300 60  0001 L CNN "Category"
-F 7 "Pushbutton Switches" H 7600 6400 60  0001 L CNN "Family"
-F 8 "http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf" H 7600 6500 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/cw-industries/GPTS203211B/CW181-ND/3190590" H 7600 6600 60  0001 L CNN "DK_Detail_Page"
-F 10 "SWITCH PUSHBUTTON SPST 1A 30V" H 7600 6700 60  0001 L CNN "Description"
-F 11 "CW Industries" H 7600 6800 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 7600 6900 60  0001 L CNN "Status"
-	1    7400 5700
-	0    1    1    0   
-$EndComp
 Text GLabel 6700 5500 0    50   Input ~ 0
 RESET
 Wire Wire Line
 	6700 5500 7000 5500
-Connection ~ 7400 5500
-Wire Wire Line
-	7400 5500 7500 5500
 Wire Wire Line
 	7200 5350 7200 5500
 Connection ~ 7200 5500
 Wire Wire Line
-	7200 5500 7400 5500
-Wire Wire Line
 	7200 5050 7200 4900
-Wire Wire Line
-	7000 5600 7000 5500
 Connection ~ 7000 5500
 Wire Wire Line
 	7000 5500 7200 5500
 Wire Wire Line
-	7000 5900 7200 5900
+	7000 6100 7200 6100
 Wire Wire Line
-	7200 5950 7200 5900
-Connection ~ 7200 5900
+	7200 6150 7200 6100
+Connection ~ 7200 6100
 Wire Wire Line
-	7200 5900 7400 5900
+	7200 6100 7400 6100
 Wire Wire Line
 	2300 1500 2850 1500
 Wire Wire Line
@@ -883,4 +856,28 @@ Text GLabel 2900 3700 0    50   Input ~ 0
 3.3V
 Wire Wire Line
 	2900 3700 3150 3700
+$Comp
+L 4-1437565-1:4-1437565-1 S1
+U 1 1 61665EF9
+P 7400 5800
+F 0 "S1" V 7354 5911 50  0000 L CNN
+F 1 "4-1437565-1" V 7445 5911 50  0000 L CNN
+F 2 "SW_4-1437565-1" H 7400 5800 50  0001 L BNN
+F 3 "" H 7400 5800 50  0001 L BNN
+F 4 "Compliant" H 7400 5800 50  0001 L BNN "EU_RoHS_Compliance"
+F 5 "50 mA" H 7400 5800 50  0001 L BNN "Contact_Current_Rating"
+F 6 "Single Pole - Single Throw" H 7400 5800 50  0001 L BNN "Configuration_Pole-Throw"
+F 7 "4-1437565-1" H 7400 5800 50  0001 L BNN "Comment"
+	1    7400 5800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7200 5500 7400 5500
+Connection ~ 7400 5500
+Wire Wire Line
+	7400 5500 7500 5500
+Wire Wire Line
+	7000 5500 7000 5700
+Wire Wire Line
+	7000 6000 7000 6100
 $EndSCHEMATC
