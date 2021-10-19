@@ -1,6 +1,27 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# 0685P8000-01_0685P8000-01
+#
+DEF 0685P8000-01_0685P8000-01 F 0 40 Y N 1 L N
+F0 "F" -200 100 50 H V L BNN
+F1 "0685P8000-01_0685P8000-01" -200 -150 50 H V L BNN
+F2 "FUSC3215X83N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "IPC-7351B" 0 0 50 H I L BNN "STANDARD"
+F5 "BELFUSE" 0 0 50 H I L BNN "MANUFACTURER"
+F6 "0.83mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F7 "Jan2019" 0 0 50 H I L BNN "PARTREV"
+DRAW
+A -75 0 75 -1 1800 0 0 6 N -150 0 0 0
+A 75 0 75 1800 -1 0 0 6 N 0 0 150 0
+P 2 0 0 6 -200 0 -150 0 N
+P 2 0 0 6 200 0 150 0 N
+X ~ 1 -300 0 100 R 40 40 0 0 P
+X ~ 2 300 0 100 L 40 40 0 0 P
+ENDDRAW
+ENDDEF
+#
 # 317030213_317030213
 #
 DEF 317030213_317030213 U 0 40 Y Y 1 L N
@@ -458,11 +479,11 @@ X VI 3 -300 0 100 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# dk_LED-Indication-Discrete_LG_L29K-G2J1-24-Z
+# piano_aid_pcb-rescue_LG_L29K-G2J1-24-Z-dk_LED-Indication-Discrete
 #
-DEF dk_LED-Indication-Discrete_LG_L29K-G2J1-24-Z D 0 0 Y Y 1 F N
+DEF piano_aid_pcb-rescue_LG_L29K-G2J1-24-Z-dk_LED-Indication-Discrete D 0 0 Y Y 1 F N
 F0 "D" -200 150 60 H V C CNN
-F1 "dk_LED-Indication-Discrete_LG_L29K-G2J1-24-Z" 0 -150 60 H V C CNN
+F1 "piano_aid_pcb-rescue_LG_L29K-G2J1-24-Z-dk_LED-Indication-Discrete" 0 -150 60 H V C CNN
 F2 "digikey-footprints:0603" 200 200 60 H I L CNN
 F3 "https://dammedia.osram.info/media/resource/hires/osram-dam-2493945/LG%20L29K.pdf" 200 300 60 H I L CNN
 F4 "475-2709-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -486,11 +507,11 @@ X ~ 2 100 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# dk_LED-Indication-Discrete_LTST-C191TBKT
+# piano_aid_pcb-rescue_LTST-C191TBKT-dk_LED-Indication-Discrete
 #
-DEF dk_LED-Indication-Discrete_LTST-C191TBKT D 0 0 Y Y 1 F N
+DEF piano_aid_pcb-rescue_LTST-C191TBKT-dk_LED-Indication-Discrete D 0 0 Y Y 1 F N
 F0 "D" -150 100 60 H V C CNN
-F1 "dk_LED-Indication-Discrete_LTST-C191TBKT" 0 -150 60 H V C CNN
+F1 "piano_aid_pcb-rescue_LTST-C191TBKT-dk_LED-Indication-Discrete" 0 -150 60 H V C CNN
 F2 "digikey-footprints:0603" 200 200 60 H I L CNN
 F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-230/LTST-C191TBKT.pdf" 200 300 60 H I L CNN
 F4 "160-1647-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"

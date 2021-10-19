@@ -11,4 +11,5 @@
   (lib (name 4-1437565-1)(type KiCad)(uri ${KIPRJMOD}/Parts/4-1437565-1)(options "")(descr ""))
   (lib (name microsd)(type KiCad)(uri ${KIPRJMOD}/Parts/microsd)(options "")(descr ""))
   (lib (name PJ-082BH)(type KiCad)(uri ${KIPRJMOD}/Parts/PJ-082BH)(options "")(descr ""))
+  (lib (name 0685P8000-01)(type KiCad)(uri ${KIPRJMOD}/Parts/0685P8000-01)(options "")(descr ""))
 )
